@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="ARGENTINA",AR | ESPN PREMIUM HD
+http://a.alcapone1.com:8080/Tommy/123456/12279
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ARGENTINA",AR | ESPN 1 HD
+http://a.alcapone1.com:8080/Tommy/123456/12281
+#EXTINF:-1 tvg-id="" tvg-name="AR  | ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ARGENTINA",AR  | ESPN 2 HD
+http://a.alcapone1.com:8080/Tommy/123456/12283
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="ARGENTINA",AR | TNT SPORTS HD
+http://a.alcapone1.com:8080/Tommy/123456/12275
+#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="ARGENTINA",AR | TYC SPORTS HD
+http://a.alcapone1.com:8080/Tommy/123456/12277
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 1 MX" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN 1 MX
+http://elmonkey.us:25461/santana/1234/91048
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MX" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN 2 MX
+http://elmonkey.us:25461/santana/1234/91049
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 1 MX
+http://elmonkey.us:25461/santana/1234/91054
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 2 MX
+http://elmonkey.us:25461/santana/1234/91055
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 3 MX
+http://elmonkey.us:25461/santana/1234/91056
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn Plus ARG" tvg-logo="" group-title="ESPN",DEPORTES | Espn Plus ARG
+http://elmonkey.us:25461/santana/1234/91058
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN" tvg-logo="" group-title="ESPN",ARG DEP | ESPN
+http://elmonkey.us:25461/santana/1234/91059
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 1 HD" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 1 HD
+http://elmonkey.us:25461/santana/1234/91060
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 2" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 2
+http://elmonkey.us:25461/santana/1234/91061
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 3" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 3
+http://elmonkey.us:25461/santana/1234/91062
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 4" tvg-logo="" group-title="ESPN",ARGENTINA | ESPN 4
+http://elmonkey.us:25461/santana/1234/91065
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN PLUS" tvg-logo="" group-title="ESPN",ARG DEP | ESPN PLUS
+http://elmonkey.us:25461/santana/1234/91066
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN" tvg-logo="" group-title="ESPN",COL DEP | ESPN
+http://elmonkey.us:25461/santana/1234/91067
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 2" tvg-logo="" group-title="ESPN",COL DEP | ESPN 2
+http://elmonkey.us:25461/santana/1234/91068
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 3" tvg-logo="" group-title="ESPN",COL DEP | ESPN 3
+http://elmonkey.us:25461/santana/1234/91069
+#EXTINF:-1 ,ESPN 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
+#EXTINF:-1 ,ESPN 3 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
+#EXTINF:-1 ,ESPN EXTRA HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
+#EXTINF:-1 ,ESPN HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
+#EXTINF:-1 ,ESPN 4 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
+#EXTINF:-1 ,FOX Sports 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
+#EXTINF:-1 ,Fox Sports 1 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
+#EXTINF:-1 ,Fox Sports 3 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
+#EXTINF:-1 ,TNT Sports 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="CINEMA",HBO HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="CINEMA",HBO Family HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="CINEMA",HBO 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="" group-title="CINEMA",HBO XTREME HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4183
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="CINEMA",HBO POP HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4317
+#EXTINF:-1 ,FX HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/233
