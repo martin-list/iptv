@@ -2,7 +2,281 @@
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="DEPORTES",AR | ESPN PREMIUM HD
 http://a.alcapone1.com:8080/Tommy/123456/12279
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",AR | ESPN 1 HD
-http://a.alcapone1.#EXTM3U
+http://a.alcap#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="DEPORTES",AR | ESPN PREMIUM HD
+http://a.alcapone1.com:8080/Tommy/123456/12279
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",AR | ESPN 1 HD
+http://a.alcapone1.com:8080/Tommy/123456/12281
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="DEPORTES",AR  | ESPN 2 HD
+http://a.alcapone1.com:8080/Tommy/123456/12283
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="DEPORTES",AR | TNT SPORTS HD
+http://a.alcapone1.com:8080/Tommy/123456/12275
+#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="DEPORTES",AR | TYC SPORTS HD
+http://a.alcapone1.com:8080/Tommy/123456/12277
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 1 MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",MX | ESPN 1 
+http://elmonkey.us:25461/santana/1234/91048
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MX" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="DEPORTES",MX | ESPN 2 
+http://elmonkey.us:25461/santana/1234/91049
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",MX | ESPN 1 
+http://elmonkey.us:25461/santana/1234/91054
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="DEPORTES",MX | ESPN 2 
+http://elmonkey.us:25461/santana/1234/91055
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 MX" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="DEPORTES",MX | ESPN 3 
+http://elmonkey.us:25461/santana/1234/91056
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn Plus ARG" tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2021/07/ESPN_PLUS_FC_POS-copy.jpg" group-title="DEPORTES",ARG | ESPN PLUS
+http://elmonkey.us:25461/santana/1234/91058
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",ARG | ESPN
+http://elmonkey.us:25461/santana/1234/91059
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",ARG | ESPN 1 HD
+http://elmonkey.us:25461/santana/1234/91060
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 2" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="DEPORTES",ARG | ESPN 2
+http://elmonkey.us:25461/santana/1234/91061
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 3" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="DEPORTES",ARG | ESPN 3
+http://elmonkey.us:25461/santana/1234/91062
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 4" tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="DEPORTES",ARG | ESPN 4
+http://elmonkey.us:25461/santana/1234/91065
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES",US | ESPN EXTRA
+http://elmonkey.us:25461/santana/1234/91066
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",COL | ESPN
+http://elmonkey.us:25461/santana/1234/91067
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 2" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="DEPORTES",COL | ESPN 2
+http://elmonkey.us:25461/santana/1234/91068
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 3" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="DEPORTES",COL | ESPN 3
+http://elmonkey.us:25461/santana/1234/91069
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="DEPORTES", ESPN 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
+#EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="DEPORTES", ESPN 3 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
+#EXTINF:-1 tvg-name="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", ESPN EXTRA HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES", ESPN HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
+#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="DEPORTES", ESPN 4 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
+#EXTINF:-1 tvg-name="Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX Sports 1 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
+#EXTINF:-1 tvg-name="FOX Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX Sports 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
+#EXTINF:-1 tvg-name="Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX Sports 3 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="DEPORTES", TNT Sports 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="CINEMA",HBO HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="CINEMA",HBO Family HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="CINEMA",HBO 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="" group-title="CINEMA",HBO XTREME HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4183
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="CINEMA",HBO POP HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4317
+#EXTINF:-1 ,FX HD, group-title="CINEMA",FX HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/233
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/62
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/723
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/300
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/724
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/63
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/64
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus (EN)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/722
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/814
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/841
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="ARGENTINA",AR | TNT SPORTS HD
+http://a.alcapone1.com:8080/Tommy/123456/12275
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="ARGENTINA",AR | TNT SPORTS SD
+http://a.alcapone1.com:8080/Tommy/123456/12276
+#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="ARGENTINA",AR | TYC SPORTS HD
+http://a.alcapone1.com:8080/Tommy/123456/12277
+#EXTINF:-1 tvg-id="" tvg-name="AR  | TYC SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="ARGENTINA",AR  | TYC SPORTS SD
+http://a.alcapone1.com:8080/Tommy/123456/12278
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="ARGENTINA",AR | ESPN PREMIUM HD
+http://a.alcapone1.com:8080/Tommy/123456/12279
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="ARGENTINA",AR | ESPN PREMIUM SD
+http://a.alcapone1.com:8080/Tommy/123456/12280
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ARGENTINA",AR | ESPN 1 HD
+http://a.alcapone1.com:8080/Tommy/123456/12281
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ARGENTINA",AR | ESPN 1 SD
+http://a.alcapone1.com:8080/Tommy/123456/12282
+#EXTINF:-1 tvg-id="" tvg-name="AR  | ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ARGENTINA",AR  | ESPN 2 HD
+http://a.alcapone1.com:8080/Tommy/123456/12283
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ARGENTINA",AR | ESPN 2 SD
+http://a.alcapone1.com:8080/Tommy/123456/12284
+#EXTINF:-1 tvg-id="" tvg-name="AR | DEPOR TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrG5tgUlK-9tZFIvlaYrszEOhe9HTZmHa36g&usqp=CAU" group-title="ARGENTINA",AR | DEPOR TV HD
+http://a.alcapone1.com:8080/Tommy/123456/12285
+#EXTINF:-1 tvg-id="" tvg-name="AR | DEPOR TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrG5tgUlK-9tZFIvlaYrszEOhe9HTZmHa36g&usqp=CAU" group-title="ARGENTINA",AR | DEPOR TV SD
+http://a.alcapone1.com:8080/Tommy/123456/12286
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="ARGENTINA",AR | TV PUBLICA FHD
+http://a.alcapone1.com:8080/Tommy/123456/12287
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="ARGENTINA",AR | TV PUBLICA HD
+http://a.alcapone1.com:8080/Tommy/123456/12288
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="ARGENTINA",AR | TV PUBLICA SD
+http://a.alcapone1.com:8080/Tommy/123456/12289
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="ARGENTINA",AR | CANAL 13 HD
+http://a.alcapone1.com:8080/Tommy/123456/12290
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="ARGENTINA",AR | CANAL 13 SD
+http://a.alcapone1.com:8080/Tommy/123456/12291
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="ARGENTINA",AR | EL NUEVE FHD
+http://a.alcapone1.com:8080/Tommy/123456/12292
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="ARGENTINA",AR | EL NUEVE HD
+http://a.alcapone1.com:8080/Tommy/123456/12293
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="ARGENTINA",AR | EL NUEVE SD
+http://a.alcapone1.com:8080/Tommy/123456/12294
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="ARGENTINA",AR | C5N FHD
+http://a.alcapone1.com:8080/Tommy/123456/12295
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="ARGENTINA",AR | C5N HD
+http://a.alcapone1.com:8080/Tommy/123456/12296
+#EXTINF:-1 tvg-id="" tvg-name="AR | VOLVER" tvg-logo="htqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="ARGENTINA",AR | VOLVER
+http://a.alcapone1.com:8080/Tommy/123456/12297
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="ARGENTINA",AR | AMERICA TV HD
+http://a.alcapone1.com:8080/Tommy/123456/12298
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="ARGENTINA",AR | AMERICA TV FHD
+http://a.alcapone1.com:8080/Tommy/123456/12299
+#EXTINF:-1 tvg-id="" tvg-name="AR | PAKAPAKA  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrBU_jV_Qe1hd-6Itc-2udTYA-GyCW4Ii0g&usqp=CAU" group-title="ARGENTINA",AR | PAKAPAKA  HD
+http://a.alcapone1.com:8080/Tommy/123456/12300
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telefe HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="ARGENTINA",AR | Telefe HD
+http://a.alcapone1.com:8080/Tommy/123456/12301
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="ARGENTINA",AR | Telemax HD
+http://a.alcapone1.com:8080/Tommy/123456/12302
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="ARGENTINA",AR | Telemax sd
+http://a.alcapone1.com:8080/Tommy/123456/12303
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24 HD" tvg-logo="http://daleplay.club:8080/images/1cb6a1a11eace2a531fab793b92864b2.png" group-title="ARGENTINA",AR | A24 HD
+http://a.alcapone1.com:8080/Tommy/123456/12304
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24 sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA",AR | A24 sd
+http://a.alcapone1.com:8080/Tommy/123456/12305
+#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD" tvg-logo="http://127.0.0.1/" group-title="ARGENTINA",AR | CRONICA HD
+http://a.alcapone1.com:8080/Tommy/123456/12306
+#EXTINF:-1 tvg-id="" tvg-name="AR | ENCUENTRO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUVWZIKiaE3oHhyEntpWB8lz1Llhn17K3zA&usqp=CAU" group-title="ARGENTINA",AR | ENCUENTRO HD
+http://a.alcapone1.com:8080/Tommy/123456/12307
+#EXTINF:-1 tvg-id="" tvg-name="AR | ENCUENTRO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUVWZIKiaE3oHhyEntpWB8lz1Llhn17K3zA&usqp=CAU" group-title="ARGENTINA",AR | ENCUENTRO SD
+http://a.alcapone1.com:8080/Tommy/123456/12308
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="ARGENTINA",AR | CANAL 26 NOTICIAS HD
+http://a.alcapone1.com:8080/Tommy/123456/12309
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CANAL 26 NOTICIAS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="ARGENTINA",AR-| CANAL 26 NOTICIAS SD
+http://a.alcapone1.com:8080/Tommy/123456/12310
+#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="ARGENTINA",AR-| ARGENTINISIMA HD
+http://a.alcapone1.com:8080/Tommy/123456/12311
+#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="ARGENTINA",AR-| ARGENTINISIMA SD
+http://a.alcapone1.com:8080/Tommy/123456/12312
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="ARGENTINA",AR-| CINE AR HD
+http://a.alcapone1.com:8080/Tommy/123456/12313
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="ARGENTINA",AR-| CINE AR SD
+http://a.alcapone1.com:8080/Tommy/123456/12314
+#EXTINF:-1 tvg-id="" tvg-name="AR-| EL GARAGE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="ARGENTINA",AR-| EL GARAGE TV HD
+http://a.alcapone1.com:8080/Tommy/123456/12315
+#EXTINF:-1 tvg-id="" tvg-name="AR-| LN+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="ARGENTINA",AR-| LN+
+http://a.alcapone1.com:8080/Tommy/123456/12316
+#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS NT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="ARGENTINA",AR | NOTICIAS NT HD
+http://a.alcapone1.com:8080/Tommy/123456/12317
+#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS NT SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="ARGENTINA",AR | NOTICIAS NT SD
+http://a.alcapone1.com:8080/Tommy/123456/12318
+#EXTINF:-1 tvg-id="" tvg-name="AR | MAS CHIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVPxtfPGqdC6sq8ijhoEDpZJu9mNYTnHxOg&usqp=CAU" group-title="ARGENTINA",AR | MAS CHIC HD
+http://a.alcapone1.com:8080/Tommy/123456/12319
+#EXTINF:-1 tvg-id="" tvg-name="AR | MAS CHIC SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVPxtfPGqdC6sq8ijhoEDpZJu9mNYTnHxOg&usqp=CAU" group-title="ARGENTINA",AR | MAS CHIC SD
+http://a.alcapone1.com:8080/Tommy/123456/12320
+#EXTINF:-1 tvg-id="" tvg-name="AR | CIUDAD MAGAZINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-o6s4OgcMxwPQtbZu9jpnF4uG99P11vehg&usqp=CAU" group-title="ARGENTINA",AR | CIUDAD MAGAZINE
+http://a.alcapone1.com:8080/Tommy/123456/12321
+#EXTINF:-1 tvg-id="" tvg-name="SOLIDARIA TV ARGENTINA" tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="ARGENTINA",SOLIDARIA TV ARGENTINA
+http://a.alcapone1.com:8080/Tommy/123456/12322
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Universidad Nacional de La Plata" tvg-logo="http://titanlivetv.com:8080/images/8a49033cd46d3770856277a76d68eac7.png" group-title="ARGENTINA",ARG: TV Universidad Nacional de La Plata
+http://a.alcapone1.com:8080/Tommy/123456/12323
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 10 Mar del Plata" tvg-logo="http://127.0.0.1/" group-title="ARGENTINA",ARG: Canal 10 Mar del Plata
+http://a.alcapone1.com:8080/Tommy/123456/12324
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ARGENTINA",AR | FOX SPORTS 1 HD
+http://a.alcapone1.com:8080/Tommy/123456/12325
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ARGENTINA",AR | FOX SPORTS 1 SD
+http://a.alcapone1.com:8080/Tommy/123456/12326
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ARGENTINA",AR | FOX SPORTS 2 HD
+http://a.alcapone1.com:8080/Tommy/123456/12327
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ARGENTINA",AR | FOX SPORTS 2 SD
+http://a.alcapone1.com:8080/Tommy/123456/12328
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ARGENTINA",AR | FOX SPORTS 3 HD
+http://a.alcapone1.com:8080/Tommy/123456/12329
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ARGENTINA",AR | FOX SPORTS 3 SD
+http://a.alcapone1.com:8080/Tommy/123456/12330
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE HD" tvg-logo="https://yt3.ggpht.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | TELEFE HD
+http://a.alcapone1.com:8080/Tommy/123456/12331
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE HD - 02" tvg-logo="https://yt3.ggpht.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | TELEFE HD - 02
+http://a.alcapone1.com:8080/Tommy/123456/12332
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/671
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/846
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/429
+#EXTINF:-1, tvg-logo="" group-title="24/7",La Casa de Papel 24/7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/403
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/431
+one1.#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="DEPORTES",AR | ESPN PREMIUM HD
 http://a.alcapone1.com:8080/Tommy/123456/12279
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",AR | ESPN 1 HD
