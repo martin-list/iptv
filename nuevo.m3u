@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="DEPORTES",AR | ESPN PREMIUM HD
 http://a.alcapone1.com:8080/Tommy/123456/12279
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="DEPORTES",AR | ESPN 1 HD
