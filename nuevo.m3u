@@ -92,24 +92,12 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4317
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/62
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/723
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/300
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/724
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
