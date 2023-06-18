@@ -157,64 +157,47 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35258
 #EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO Xtreme HD (MX VIP)" tvg-logo="https://static.epg.best/pa/HBOXtremePanamerica.pa.png" tvg-chno="35" channel-id="35" group-title="Peliculas",HBO Xtreme HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302666
 
-#EXTINF:-1,Universal Cinema SD (CL*)
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema SD (CL*)" tvg-logo="https://static.epg.best/mx/UniversalCinema.mx.png" tvg-chno="1" channel-id="1" group-title="Peliculas",Universal Cinema SD (CL*)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313124
-#EXTINF:-1,Universal Cinema SD (LAT)
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema SD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalCinema.mx.png" tvg-chno="2" channel-id="2" group-title="Peliculas",Universal Cinema SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34869
-#EXTINF:-1,Universal Cinema HD (LAT)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34870
-#EXTINF:-1,Universal Cinema FHD (LAT)*
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema FHD (LAT)*" tvg-logo="https://static.epg.best/mx/UniversalCinema.mx.png" tvg-chno="3" channel-id="3" group-title="Peliculas",Universal Cinema FHD (LAT)*
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312948
-#EXTINF:-1,Universal Cinema FHD (LAT)
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema FHD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalCinema.mx.png" tvg-chno="4" channel-id="4" group-title="Peliculas",Universal Cinema FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34871
-#EXTINF:-1,Universal Cinema HD (MX VIP)
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema HD (MX VIP)" tvg-logo="https://static.epg.best/mx/UniversalCinema.mx.png" tvg-chno="5" channel-id="5" group-title="Peliculas",Universal Cinema HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302740
-#EXTINF:-1,Universal Comedy SD (CL*)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313118
-#EXTINF:-1,Universal Comedy SD (LAT)
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy SD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalComedy.mx.png" tvg-chno="6" channel-id="6" group-title="Peliculas",Universal Comedy SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34854
-#EXTINF:-1,Universal Comedy HD (LAT)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34855
-#EXTINF:-1,Universal Comedy FHD (LAT)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34856
-#EXTINF:-1,Universal Comedy HD (MX VIP)
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD (MX VIP)" tvg-logo="https://static.epg.best/mx/UniversalComedy.mx.png" tvg-chno="7" channel-id="7" group-title="Peliculas",Universal Comedy HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/304508
-#EXTINF:-1,Universal Crime FHD (LAT)
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime FHD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalCrime.mx.png" tvg-chno="8" channel-id="8" group-title="Peliculas",Universal Crime FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34853
-#EXTINF:-1,Universal Crime HD (MX VIP)
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime HD (MX VIP)" tvg-logo="https://static.epg.best/mx/UniversalCrime.mx.png" tvg-chno="9" channel-id="9" group-title="Peliculas",Universal Crime HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302741
-#EXTINF:-1,Universal Crime Oeste HD (LAT)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312772
-#EXTINF:-1,Universal Crime SD (LAT)
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime SD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalCrime.mx.png" tvg-chno="10" channel-id="10" group-title="Peliculas",Universal Crime SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34851
-#EXTINF:-1,Universal Premier HD (MX VIP)
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premier HD (MX VIP)" tvg-logo="https://static.epg.best/mx/UniversalPremiere.mx.png" tvg-chno="11" channel-id="11" group-title="Peliculas",Universal Premier HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302742
-#EXTINF:-1,Universal Premiere  SD (CL*)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313119
-#EXTINF:-1,Universal Premiere FHD (LAT)*
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere FHD (LAT)*" tvg-logo="https://static.epg.best/mx/UniversalPremiere.mx.png" tvg-chno="12" channel-id="12" group-title="Peliculas",Universal Premiere FHD (LAT)*
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312912
-#EXTINF:-1,Universal Premiere HD (LAT)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34874
-#EXTINF:-1,Universal Premiere FHD (LAT)*
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere FHD (LAT)*" tvg-logo="https://static.epg.best/mx/UniversalPremiere.mx.png" tvg-chno="13" channel-id="13" group-title="Peliculas",Universal Premiere FHD (LAT)*
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312947
-#EXTINF:-1,Universal Premiere FHD (LAT)
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere FHD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalPremiere.mx.png" tvg-chno="14" channel-id="14" group-title="Peliculas",Universal Premiere FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34875
-#EXTINF:-1,Universal Premiere Oeste SD (LAT)
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere Oeste SD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalPremiere.mx.png" tvg-chno="15" channel-id="15" group-title="Peliculas",Universal Premiere Oeste SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312776
-#EXTINF:-1,Universal Premiere Oeste HD (LAT)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312775
-#EXTINF:-1,Universal Premiere Oeste FHD (LAT)
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere Oeste FHD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalPremiere.mx.png" tvg-chno="16" channel-id="16" group-title="Peliculas",Universal Premiere Oeste FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312774
-#EXTINF:-1,Universal Premiere SD (LAT)
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere SD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalPremiere.mx.png" tvg-chno="17" channel-id="17" group-title="Peliculas",Universal Premiere SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34873
-#EXTINF:-1,Universal Reality SD (LAT)
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality SD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalReality.mx.png" tvg-chno="18" channel-id="18" group-title="Peliculas",Universal Reality SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34862
-#EXTINF:-1,Universal Reality HD (LAT)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34863
-#EXTINF:-1,Universal Reality FHD (LAT)
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality FHD (LAT)" tvg-logo="https://static.epg.best/mx/UniversalReality.mx.png" tvg-chno="19" channel-id="19" group-title="Peliculas",Universal Reality FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34864
-#EXTINF:-1,Universal Reality HD (MX VIP)
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality HD (MX VIP)" tvg-logo="https://static.epg.best/mx/UniversalReality.mx.png" tvg-chno="20" channel-id="20" group-title="Peliculas",Universal Reality HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302743
+
 #EXTINF:-1,Bandamax HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302616
 #EXTINF:-1,Concert Channel SD (LAT)
