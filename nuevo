@@ -1,0 +1,456 @@
+#EXTM3U
+#EXTINF:-1,tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123872
+#EXTINF:-1,tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports 2 HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34612
+#EXTINF:-1,tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports + HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123871
+#EXTINF:-1,tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports + HD (CO)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43430
+#EXTINF:-1,tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports 2 HD (CO)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43431
+#EXTINF:-1,tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports + HD 
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123885
+
+#EXTINF:-1,tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="CLARO",Claro Sports FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34618
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", FOX Sports 3 SD (MX)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34625
+#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 3 FHD (MX)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34626
+#EXTINF:-1 tvg-name="Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 1 HD (CL)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34631
+#EXTINF:-1 tvg-name="Fox Sports 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 1 FHD (CL)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34632
+#EXTINF:-1 tvg-name="Fox Sports 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 2 FHD (CL)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34635
+#EXTINF:-1 tvg-name="Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 3 HD (CL)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34637
+#EXTINF:-1 tvg-name="Fox Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34639
+#EXTINF:-1 tvg-name="Fox Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34640
+#EXTINF:-1 tvg-name="Fox Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34641
+#EXTINF:-1 tvg-name="Fox Sports 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 2 SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34642
+#EXTINF:-1 tvg-name="Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 2 HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34643
+#EXTINF:-1 tvg-name="Fox Sports 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 3 SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34645
+#EXTINF:-1 tvg-name="Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 3 HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34646
+#EXTINF:-1 tvg-name="Fox Sports 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 3 FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34647
+#EXTINF:-1 tvg-name="Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX Sports", Fox Sports 2 HD (US)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34650
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="ESPN", ESPN 3 FHD (MX)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34658
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ESPN", ESPN SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34659
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ESPN", ESPN HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34660
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="ESPN", ESPN FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34661
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="ESPN", ESPN Premium HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123874
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="ESPN", ESPN Premium FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34648
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="ESPN", ESPN 2 SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34662
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="ESPN", ESPN 2 HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34663
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="ESPN", ESPN 2 FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34664
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="ESPN", ESPN 3 SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34665
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="ESPN", ESPN 3 HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34666
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="ESPN", ESPN 3 FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34667
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="TNT Sports", TNT Sports HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34683
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="TNT Sports", TNT Sports FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34684
+
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="TyC Sports", TyC Sports SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34685
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="TyC Sports", TyC Sports HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34686
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="TyC Sports", TyC Sports SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34687
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS Internacional HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="TyC Sports", TyC Sports Internacional HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34688
+
+
+#EXTINF:-1,PPV: HBO West FHD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34541
+#EXTINF:-1,HBO  SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313095
+#EXTINF:-1,HBO 2  SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313098
+#EXTINF:-1,HBO 2 FHD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313052
+#EXTINF:-1,HBO 2 SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34890
+#EXTINF:-1,HBO 2 HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34889
+#EXTINF:-1,HBO 2 HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302665
+#EXTINF:-1,HBO 2 FHD (MX E)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35288
+#EXTINF:-1,HBO 2 FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34888
+#EXTINF:-1,HBO Family SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313108
+#EXTINF:-1,HBO Family  FHD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313051
+#EXTINF:-1,HBO Family FHD (LAT)*
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312908
+#EXTINF:-1,HBO Family HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302667
+#EXTINF:-1,HBO Family FHD (MX E)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35292
+#EXTINF:-1,HBO FHD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313040
+#EXTINF:-1,HBO FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34883
+#EXTINF:-1,HBO FHD (MX E)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35286
+#EXTINF:-1,HBO HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34882
+#EXTINF:-1,HBO HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302664
+#EXTINF:-1,HBO Mundi SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313096
+#EXTINF:-1,HBO Mundi SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312766
+#EXTINF:-1,HBO Mundi HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312765
+#EXTINF:-1,HBO Mundi FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312764
+#EXTINF:-1,HBO Mundi HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302663
+#EXTINF:-1,HBO Plus SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313109
+#EXTINF:-1,HBO Plus SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34892
+#EXTINF:-1,HBO Plus HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34893
+#EXTINF:-1,HBO Plus FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34894
+#EXTINF:-1,HBO Plus FHD (MX E)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35290
+#EXTINF:-1,HBO Plus HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302668
+#EXTINF:-1,HBO POP  FHD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313058
+#EXTINF:-1,HBO POP FHD (LAT)*
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312919
+#EXTINF:-1,HBO POP HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302669
+#EXTINF:-1,HBO SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34881
+#EXTINF:-1,HBO Signature  SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313097
+#EXTINF:-1,HBO Signature FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34901
+#EXTINF:-1,HBO Signature SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34899
+#EXTINF:-1,HBO Signature HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34900
+#EXTINF:-1,HBO Signature FHD (LAT)*
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312907
+#EXTINF:-1,HBO Signature HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302670
+#EXTINF:-1,HBO Xtreme SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313116
+#EXTINF:-1,HBO Xtreme FHD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313053
+#EXTINF:-1,HBO Xtreme FHD (MX E)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35258
+#EXTINF:-1,HBO Xtreme HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302666
+#EXTINF:-1,Universal Cinema SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313124
+#EXTINF:-1,Universal Cinema SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34869
+#EXTINF:-1,Universal Cinema HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34870
+#EXTINF:-1,Universal Cinema FHD (LAT)*
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312948
+#EXTINF:-1,Universal Cinema FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34871
+#EXTINF:-1,Universal Cinema HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302740
+#EXTINF:-1,Universal Comedy SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313118
+#EXTINF:-1,Universal Comedy SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34854
+#EXTINF:-1,Universal Comedy HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34855
+#EXTINF:-1,Universal Comedy FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34856
+#EXTINF:-1,Universal Comedy HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/304508
+#EXTINF:-1,Universal Crime FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34853
+#EXTINF:-1,Universal Crime HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302741
+#EXTINF:-1,Universal Crime Oeste HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312772
+#EXTINF:-1,Universal Crime SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34851
+#EXTINF:-1,Universal Premier HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302742
+#EXTINF:-1,Universal Premiere  SD (CL*)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313119
+#EXTINF:-1,Universal Premiere FHD (LAT)*
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312912
+#EXTINF:-1,Universal Premiere HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34874
+#EXTINF:-1,Universal Premiere FHD (LAT)*
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312947
+#EXTINF:-1,Universal Premiere FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34875
+#EXTINF:-1,Universal Premiere Oeste SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312776
+#EXTINF:-1,Universal Premiere Oeste HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312775
+#EXTINF:-1,Universal Premiere Oeste FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312774
+#EXTINF:-1,Universal Premiere SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34873
+#EXTINF:-1,Universal Reality SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34862
+#EXTINF:-1,Universal Reality HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34863
+#EXTINF:-1,Universal Reality FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34864
+#EXTINF:-1,Universal Reality HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302743
+#EXTINF:-1,Bandamax HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302616
+#EXTINF:-1,Concert Channel SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35022
+#EXTINF:-1,Concert Channel HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35024
+#EXTINF:-1,Concert Channel FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35023
+
+#EXTINF:-1 ,AXN
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/38
+#EXTINF:-1 ,Nat Geo  
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
+#EXTINF:-1 ,Home and Health 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/40
+#EXTINF:-1 ,Discovery ID 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/41
+#EXTINF:-1 ,Discovery Channel 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/42
+#EXTINF:-1 ,Animal Planet 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/43
+#EXTINF:-1 ,History Channel 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/44
+#EXTINF:-1 ,CNN espanol 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/46
+#EXTINF:-1 ,E Entertainment 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/48
+#EXTINF:-1 ,TVE 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
+#EXTINF:-1 ,MTV 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
+#EXTINF:-1 ,ViaX 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
+#EXTINF:-1 ,Zona Latina 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
+#EXTINF:-1 ,Canal RCN 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/54
+#EXTINF:-1 ,TBS 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
+#EXTINF:-1 ,TV+ 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/150
+#EXTINF:-1 ,Golden 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
+#EXTINF:-1 ,HTV 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/177
+#EXTINF:-1 ,History 2 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
+#EXTINF:-1 ,HOLA TV 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
+#EXTINF:-1 ,Paramount 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
+#EXTINF:-1 ,Tnt Series 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/191
+#EXTINF:-1 ,A&E HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/208
+#EXTINF:-1 ,AMC HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/209
+#EXTINF:-1 ,AXN HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/210
+#EXTINF:-1 ,Animal Planet HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
+#EXTINF:-1 ,Comedy Central HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
+#EXTINF:-1 ,DHE HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
+#EXTINF:-1 ,Discovery H&H HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
+#EXTINF:-1 ,Discovery HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
+#EXTINF:-1 ,Discovery Theater HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/224
+#EXTINF:-1 ,Discovery World HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/225
+#EXTINF:-1 ,Disney HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
+#EXTINF:-1 ,El Gourmet HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
+#EXTINF:-1 ,History 2 HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
+#EXTINF:-1 ,History Channel HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
+#EXTINF:-1 ,Discovery ID HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/242
+#EXTINF:-1 ,Nat Geo HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
+#EXTINF:-1 ,TNT Series HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/263
+#EXTINF:-1 ,TRUTV HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
+#EXTINF:-1 ,A&E Mundo 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/268
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios AM",LS4 Continental - 590 TV - CABA AM 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="Radios AM",LS5 Rivadavia - 630 TV - CABA AM 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0002
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios AM",LR6 Mitre - 790 TV - CABA AM 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMSPOR.png" group-title="Canales TDA",América Sports - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ARGTV.png" group-title="Canales TDA",Argentinísima - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Canales TDA",Canal de la Ciudad - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----CM.png" group-title="Canales TDA",Canal de la Musica - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRURAL.png" group-title="Canales TDA",Canal Rural - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CGTN.png" group-title="Canales TDA",CGTN Español - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICHCRTV.png" group-title="Canales TDA",chTV Chacra TV - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CNN.png" group-title="Canales TDA",CNN International - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" group-title="Canales TDA",DW Español - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0020
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Canales TDA",El Garage TV - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0021
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="Canales TDA",Fashion TV - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0022
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="Canales TDA",France24 English 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0023
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="Canales TDA",Galicia TV - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0024
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIHISPAN.png" group-title="Canales TDA",Hispan TV - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Canales TDA",KZO Entertaiment - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUSTOP.png" group-title="Canales TDA",Musictop - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0027
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---NHK.png" group-title="Canales TDA",NHK World - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Canales TDA",Rai 3 - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Canales TDA",Rai News24 - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",TierraMia TV - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0031
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",TN Todo Noticias - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar - CTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Canales TDA",GenTV - 17.3 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL456.png" group-title="Canales TDA",LRL456 Orbe 21 - 21.2 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0035
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIENCUEN.png" group-title="Canales TDA",Encuentro - 22.1 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPAKAPA.png" group-title="Canales TDA",Paka Paka - 22.2 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0037
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AUNAR.png" group-title="Canales TDA",Aunar - 22.3 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICINEAR.png" group-title="Canales TDA",CINE.AR - 22.4 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0039
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-TECTV.png" group-title="Canales TDA",TECtv - 22.5 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",LS82 TVP - 23.2 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---DTV.png" group-title="Canales TDA",DTV Diputados - 23.4 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Canales TDA",DEPORTV - 24.1 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="Canales TDA",France24 Español - 24.3 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Canales TDA",Cronica - 24.4 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",IP - 24.5 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="Canales TDA",C5N - 25.2 TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Canales TDA",LN+ - 25.3 TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="Canales TDA",Telesur - 25.4 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----RT.png" group-title="Canales TDA",RT - 25.5 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",Canal 26 - 26.1 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLX.png" group-title="Canales TDA",Telemax - 26.3 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV - 27.2 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIURTEVE.png" group-title="Canales TDA",Urbana TeVe - 32.2 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA",LS85 El Trece - 33.1 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe - 34.1 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",LS83 Canal 9 - 35.1 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Canales TDA",LS86 America - 36.1 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24 - 36.3 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
+
+#EXTINF:-1,HTV SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
+#EXTINF:-1,MTV 00S SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35033
+#EXTINF:-1,MTV 00S FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35035
+#EXTINF:-1,MTV 00S FHD (LAT)*
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312959
+#EXTINF:-1,MTV 80s (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
+#EXTINF:-1,MTV HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35015
+#EXTINF:-1,MTV HD (MX VIP)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302703
+#EXTINF:-1,MTV HD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35017
+#EXTINF:-1,MTV FHD (LAT)*
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
+#EXTINF:-1,MTV FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
+#EXTINF:-1,MTV Hits SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
+#EXTINF:-1,MTV Live SD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35020
+#EXTINF:-1,MTV Live FHD (LAT)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
