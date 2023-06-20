@@ -15,24 +15,24 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123885
 #EXTINF:-1 tvg-name="Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="CLARO", Claro Sports
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34618
 
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 FHD (MX)" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="1" channel-id="1" group-title="FOX Sports",Fox Sports 3 FHD (MX)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34626
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports Latinoamerica" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="2" channel-id="2" group-title="FOX Sports",Fox Sports 1 FHD (CL)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34632
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2 FHD (CL)" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" tvg-chno="3" channel-id="3" group-title="FOX Sports",Fox Sports 2 FHD (CL)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34635
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX Sports 3 LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="4" channel-id="4" group-title="FOX Sports",Fox Sports 3 HD (CL)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34637
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports  LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="FOX Sports",Fox Sports HD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34640
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports FHD (ARG)" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="6" channel-id="6" group-title="FOX Sports",Fox Sports FHD (ARG)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FSALA" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="6" channel-id="6" group-title="FOX Sports",Fox Sports FHD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34641
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" tvg-chno="3" channel-id="3" group-title="FOX Sports",Fox Sports 2 FHD (CL)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34635
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports Premium HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="FOX Sports",Fox Sports HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34640
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2 LatinoAmerica" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="7" channel-id="7" group-title="FOX Sports",Fox Sports 2 SD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34642
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2 LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="FOX Sports",Fox Sports 2 HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34643
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX Sports 3 LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="FOX Sports",Fox Sports 3 HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34646
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 Latinoamerica" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="1" channel-id="1" group-title="FOX Sports",Fox Sports 3 FHD (MX)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34626
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX Sports 3 LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="4" channel-id="4" group-title="FOX Sports",Fox Sports 3 HD (CL)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34637
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD (ARG)" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" tvg-chno="10" channel-id="10" group-title="ESPN",ESPN HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34660
