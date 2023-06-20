@@ -1,19 +1,19 @@
 #EXTM3U 
 #EXTINF:-1 tvg-name="HBO Latino" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="19" channel-id="19" group-title="Peliculas",HBO SD 
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313095
-#EXTINF:-1 tvg-id="HBO 2 tvg-name="HBO 2" tvg-logo="https://static.epg.best/pa/HBO2LatinAmerica.pa.png" tvg-chno="20" channel-id="20" group-title="Peliculas",HBO 2 HD (MX VIP)
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://static.epg.best/pa/HBO2LatinAmerica.pa.png" tvg-chno="20" channel-id="20" group-title="Peliculas",HBO 2 HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302665
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family SD (CL*)" tvg-logo="https://static.epg.best/pa/HBOFamilyLatinAmerica.pa.png" tvg-chno="21" channel-id="21" group-title="Peliculas",HBO Family SD (CL*)
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://static.epg.best/pa/HBOFamilyLatinAmerica.pa.png" tvg-chno="21" channel-id="21" group-title="Peliculas",HBO Family SD (CL*)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313108
-#EXTINF:-1 tvg-id="HBO Family Latinoamerica" tvg-name="HBO Family HD (MX VIP)" tvg-logo="https://static.epg.best/pa/HBOFamilyLatinAmerica.pa.png" tvg-chno="22" channel-id="22" group-title="Peliculas",HBO Family HD (MX VIP)
+#EXTINF:-1 tvg-id="HBO Family Latinoamerica" tvg-name="HBO Family HD" tvg-logo="https://static.epg.best/pa/HBOFamilyLatinAmerica.pa.png" tvg-chno="22" channel-id="22" group-title="Peliculas",HBO Family HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302667
-#EXTINF:-1 tvg-id="HBO Latinoamerica" tvg-name="HBO FHD (CL*)" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="23" channel-id="23" group-title="Peliculas",HBO FHD (CL*)
+#EXTINF:-1 tvg-id="HBO Latinoamerica" tvg-name="HBO Latinoamerica" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="23" channel-id="23" group-title="Peliculas",HBO FHD (CL*)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313040
-#EXTINF:-1 tvg-id="HBO Latino HD" tvg-name="HBO FHD (MX E)" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="24" channel-id="24" group-title="Peliculas",HBO FHD (MX E)
+#EXTINF:-1 tvg-id="HBO Latino" tvg-name="HBO Latino" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="24" channel-id="24" group-title="Peliculas",HBO FHD (MX E)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35286
-#EXTINF:-1 tvg-id="HBO Latino HD" tvg-name="HBO HD (MX VIP)" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="25" channel-id="25" group-title="Peliculas",HBO HD (MX VIP)
+#EXTINF:-1 tvg-id="HBO Latino HD" tvg-name="HBO Latino HD" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="25" channel-id="25" group-title="Peliculas",HBO HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302664
-#EXTINF:-1 tvg-id="HBO Latino" tvg-name="HBO SD (LAT)" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="26" channel-id="26" group-title="Peliculas",HBO SD (LAT)
+#EXTINF:-1 tvg-id="HBO Latino" tvg-name="HBO" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="26" channel-id="26" group-title="Peliculas",HBO SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34881
 #EXTINF:-1 tvg-id="HBOMundiPanAmerican.pa" tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" tvg-chno="27" channel-id="27" group-title="Peliculas",HBO Mundi SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312766
