@@ -179,9 +179,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
 #EXTINF:-1, group-title="Musica", HTV SD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
-#EXTINF:-1, tvg-id="MTV 00s Latinoamerica" group-title="Musica", MTV 00s
+#EXTINF:-1, tvg-name="MTV 00s Latinoamerica" group-title="Musica", MTV 00s
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312959
-#EXTINF:-1, tvg-id="MTV 80's" group-title="Musica", MTV 80's
+#EXTINF:-1, tvg-name="MTV 80's" group-title="Musica", MTV 80's
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
 #EXTINF:-1, tvg-id="MTVHD" group-title="Musica", MTV HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
@@ -189,7 +189,7 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
 #EXTINF:-1, tvg-id="MTV Hits" group-title="Musica", MTVHits
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
-#EXTINF:-1, tvg-id="MTV Live" group-title="Musica", MTV Live
+#EXTINF:-1, tvg-id="MTV Live" group-title="Musica", MTV Live LatinoAmerica HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
 
 
