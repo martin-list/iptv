@@ -5,8 +5,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/38
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
 #EXTINF:-1 tvg-id="Discovery Home & Health",Home and Health 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/40
-#EXTINF:-1 tvg-id="Investigation Discovery Latino", Discovery ID 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/41
 #EXTINF:-1 tvg-id="Discovery Channel", Discovery Channel 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/42
 #EXTINF:-1 tvg-id="Animal Planet", Animal Planet 
@@ -17,17 +15,17 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/44
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/46
 #EXTINF:-1 tvg-id="E! Entertainment TV", E Entertainment 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/48
-#EXTINF:-1 tvg-id="TVEI",TVE 
+#EXTINF:-1 tvg-id="TVE America Television Española",TVE 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
-#EXTINF:-1 ,MTV 
+#EXTINF:-1 tvg-id="MTV", MTV 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
-#EXTINF:-1 ,ViaX 
+#EXTINF:-1 tvg-id="ViaX", ViaX 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
-#EXTINF:-1 ,Zona Latina 
+#EXTINF:-1 tvg-id="Zona Latina", Zona Latina 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
-#EXTINF:-1 ,Canal RCN 
+#EXTINF:-1 tvg-id="RCN",Canal RCN 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/54
-#EXTINF:-1 ,TBS 
+#EXTINF:-1 tvg-id="TBS",TBS 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
 #EXTINF:-1 ,TV+ 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/150
@@ -55,7 +53,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
 #EXTINF:-1 ,DHE HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
-#EXTINF:-1 ,Discovery H&H HD 
+#EXTINF:-1 tvg-id="Discovery Home &amp; Health Latinoamerica", Discovery H&H HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
 #EXTINF:-1 ,Discovery HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
@@ -71,11 +69,11 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
 #EXTINF:-1 ,History Channel HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
-#EXTINF:-1 ,Discovery ID HD 
+#EXTINF:-1 tvg-id="ID", Discovery ID HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/242
-#EXTINF:-1 ,Nat Geo HD 
+#EXTINF:-1 tvg-id="Nat Geo Wild",Nat Geo HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
-#EXTINF:-1 ,TNT Series HD 
+#EXTINF:-1 tvg-id="TNT Series LatinoAmerica HD",TNT Series
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/263
 #EXTINF:-1 ,TRUTV HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
@@ -122,7 +120,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",TierraMia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0031
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",TN Todo Noticias
+#EXTINF:-1 tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",TN Todo Noticias
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
@@ -181,17 +179,17 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
 #EXTINF:-1, group-title="Musica", HTV SD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
-#EXTINF:-1, group-title="Musica", MTV 00S FHD (LAT)
+#EXTINF:-1, tvg-id="MTV 00s" group-title="Musica", MTV 00S FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312959
-#EXTINF:-1, group-title="Musica", MTV 80s (LAT)
+#EXTINF:-1, tvg-id="MTV 80's" group-title="Musica", MTV 80s (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
-#EXTINF:-1, group-title="Musica", MTV FHD (LAT)
+#EXTINF:-1, tvg-id="MTVHD" group-title="Musica", MTV FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
 #EXTINF:-1, group-title="Musica", MTV FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
-#EXTINF:-1, group-title="Musica", MTV Hits SD (LAT)
+#EXTINF:-1, tvg-id="MTV Hits" group-title="Musica", MTV Hits SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
-#EXTINF:-1, group-title="Musica", MTV Live FHD (LAT)
+#EXTINF:-1, tvg-id="MTV Live" group-title="Musica", MTV Live FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
 
 
