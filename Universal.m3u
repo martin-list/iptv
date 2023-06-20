@@ -1,0 +1,87 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml" x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+
+#EXTINF:-1 tvg-id="AXN", AXN
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/38
+#EXTINF:-1 tvg-id="National Geographic", National Geographic 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
+#EXTINF:-1 tvg-id="Discovery Home &amp; Health",Home and Health 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/40
+#EXTINF:-1 tvg-id="Investigation Discovery HD", Discovery ID 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/41
+#EXTINF:-1 tvg-id="Discovery Channel", Discovery Channel 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/42
+#EXTINF:-1 tvg-id="Animal Planet", Animal Planet 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/43
+#EXTINF:-1 tvg-id="History", History Channel 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/44
+#EXTINF:-1 tvg-id="CNN en Español", CNN en Español 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/46
+#EXTINF:-1 , E Entertainment 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/48
+#EXTINF:-1 ,TVE 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
+#EXTINF:-1 ,MTV 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
+#EXTINF:-1 ,ViaX 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
+#EXTINF:-1 ,Zona Latina 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
+#EXTINF:-1 ,Canal RCN 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/54
+#EXTINF:-1 ,TBS 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
+#EXTINF:-1 ,TV+ 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/150
+#EXTINF:-1 ,Golden 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
+#EXTINF:-1 ,HTV 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/177
+#EXTINF:-1 tvg-id="History 2", History 2 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
+#EXTINF:-1 ,HOLA TV 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
+#EXTINF:-1 ,Paramount 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
+#EXTINF:-1 ,Tnt Series 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/191
+#EXTINF:-1 ,A&E HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/208
+#EXTINF:-1 ,AMC HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/209
+#EXTINF:-1 ,AXN HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/210
+#EXTINF:-1 ,Animal Planet HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
+#EXTINF:-1 ,Comedy Central HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
+#EXTINF:-1 ,DHE HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
+#EXTINF:-1 ,Discovery H&H HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
+#EXTINF:-1 ,Discovery HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
+#EXTINF:-1 ,Discovery Theater HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/224
+#EXTINF:-1 ,Discovery World HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/225
+#EXTINF:-1 ,Disney HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
+#EXTINF:-1 ,El Gourmet HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
+#EXTINF:-1 ,History 2 HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
+#EXTINF:-1 ,History Channel HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
+#EXTINF:-1 ,Discovery ID HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/242
+#EXTINF:-1 ,Nat Geo HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
+#EXTINF:-1 ,TNT Series HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/263
+#EXTINF:-1 ,TRUTV HD 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
+#EXTINF:-1 ,A&E Mundo 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/268
+
+
+
