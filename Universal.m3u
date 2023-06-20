@@ -33,13 +33,12 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302669
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34901
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBO Signature LatinoAmerica HD" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" tvg-chno="35" channel-id="35" group-title="Peliculas",HBO Signature SD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34899
-#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO Xtreme SD (CL*)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-chno="36" channel-id="36" group-title="Peliculas",HBO Xtreme SD (CL*)
+#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-chno="36" channel-id="36" group-title="Peliculas",HBO Xtreme SD (CL*)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313116
-#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-chno="37" channel-id="37" group-title="Peliculas",HBO Xtreme FHD (CL*)
+#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO Xtreme East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-chno="37" channel-id="37" group-title="Peliculas",HBO Xtreme FHD (CL*)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313053
 #EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-chno="38" channel-id="38" group-title="Peliculas",HBO Xtreme FHD (MX E)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35258
-
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema FHD (LAT)*" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="39" channel-id="39" group-title="Peliculas",Universal Cinema FHD (LAT)*
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312948
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema HD (MX VIP)" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="40" channel-id="40" group-title="Peliculas",Universal Cinema HD (MX VIP)
