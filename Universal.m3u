@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-name="HBO Latino" tvg-logo="https://static.epg.best/pa/HBOLatinAmerica.pa.png" tvg-chno="19" channel-id="19" group-title="Peliculas",HBO SD 
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313095
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name="HBO 2 HD (MX VIP)" tvg-logo="https://static.epg.best/pa/HBO2LatinAmerica.pa.png" tvg-chno="20" channel-id="20" group-title="Peliculas",HBO 2 HD (MX VIP)
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name="HBO 2" tvg-logo="https://static.epg.best/pa/HBO2LatinAmerica.pa.png" tvg-chno="20" channel-id="20" group-title="Peliculas",HBO 2 HD (MX VIP)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302665
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBO Family SD (CL*)" tvg-logo="https://static.epg.best/pa/HBOFamilyLatinAmerica.pa.png" tvg-chno="21" channel-id="21" group-title="Peliculas",HBO Family SD (CL*)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313108
