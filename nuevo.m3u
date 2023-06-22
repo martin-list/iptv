@@ -277,13 +277,13 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
 
-#EXTINF:-1, tvg-name="MTV 00s Latinoamerica" group-title="Musica", MTV 00s
+#EXTINF:-1, tvg-name="MTV 00s Latinoamerica" tvg-logo="https://yt3.googleusercontent.com/rYDUvJgOVELMg4lk8VHKBCBS5OyxFf69yPaUiSVUkGEIEUPgh3Uab8ZBXC9SWkop5lSICyO7l3w=s900-c-k-c0x00ffffff-no-rj" group-title="Musica", MTV 00s
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312959
-#EXTINF:-1, tvg-name="MTV 80's" group-title="Musica", MTV 80's
+#EXTINF:-1, tvg-name="MTV 80's" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/MTV_80s_Xmas_2022.png" group-title="Musica", MTV 80's
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
 #EXTINF:-1, tvg-id="MTVHD" group-title="Musica", MTV HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
-#EXTINF:-1, tvg-id="MTV Hits" group-title="Musica", MTVHits
+#EXTINF:-1, tvg-id="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/240px-MTV_Hits_2017_logo.svg.png" group-title="Musica", MTVHits
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
-#EXTINF:-1, tvg-id="MTV Live" group-title="Musica", MTV Live LatinoAmerica HD
+#EXTINF:-1, tvg-id="MTV Live" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/9/90/MTV_Live.svg" group-title="Musica", MTV Live LatinoAmerica HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
