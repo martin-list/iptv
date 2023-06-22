@@ -215,9 +215,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0027
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---NHK.png" group-title="Canales TDA",NHK World
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Canales TDA",Rai 3
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Canales TDA",Rai News24
+#EXTINF:-1 tvg-name="Rai" Italia tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Canales TDA",Rai News24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",TierraMia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0031
