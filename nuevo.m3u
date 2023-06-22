@@ -15,39 +15,25 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123885
 #EXTINF:-1 tvg-name="Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="CLARO", Claro Sports
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34618
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports Latinoamerica" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="2" channel-id="2" group-title="FOX Sports",Fox Sports 1 FHD (CL)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34632
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FSALA" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="6" channel-id="6" group-title="FOX Sports",Fox Sports FHD (ARG)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="6" channel-id="6" group-title="FOX Sports",Fox Sports FHD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34641
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" tvg-chno="3" channel-id="3" group-title="FOX Sports",Fox Sports 2 FHD (CL)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34635
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports Premium HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="FOX Sports",Fox Sports HD (ARG)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="FOX Sports",Fox Sports HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34640
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2 LatinoAmerica" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="7" channel-id="7" group-title="FOX Sports",Fox Sports 2 SD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34642
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2 LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="FOX Sports",Fox Sports 2 HD (ARG)
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="FOX Sports",Fox Sports 2 HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34643
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX Sports 3 LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="FOX Sports",Fox Sports 3 HD (ARG)
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX Sports 3" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="FOX Sports",Fox Sports 3 HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34646
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 Latinoamerica" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="1" channel-id="1" group-title="FOX Sports",Fox Sports 3 FHD (MX)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34626
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX Sports 3 LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="4" channel-id="4" group-title="FOX Sports",Fox Sports 3 HD (CL)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34637
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD (ARG)" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" tvg-chno="10" channel-id="10" group-title="ESPN",ESPN HD (ARG)
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34660
-#EXTINF:-1 tvg-id="ESPNPlus.ar" tvg-name="ESPN Premium HD (ARG)" tvg-logo="https://static.epg.best/ar/ESPNPlus.ar.png" tvg-chno="11" channel-id="11" group-title="ESPN",ESPN Premium HD (ARG)
+#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png", ESPN Premium
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123874
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" tvg-chno="13" channel-id="13" group-title="ESPN",ESPN 2 HD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34663
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 SD (ARG)" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" tvg-chno="14" channel-id="14" group-title="ESPN",ESPN 3 SD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34665
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD (ARG)" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" tvg-chno="15" channel-id="15" group-title="ESPN",ESPN 3 HD (ARG)
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png", ESPN 2
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34664
+#EXTINF:-1 tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png", ESPN 3
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34666
-#EXTINF:-1 tvg-id="ESPN3LatAmNorth.pa" tvg-name="ESPN 3 FHD (ARG)" tvg-logo="https://static.epg.best/pa/ESPN3LatAmNorth.pa.png" tvg-chno="16" channel-id="16" group-title="ESPN",ESPN 3 FHD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34667
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports HD" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="17" channel-id="17" group-title="TNT Sports",TNT Sports HD (ARG)
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="17" channel-id="17" group-title="TNT Sports",TNT Sports HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34683
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="18" channel-id="18" group-title="TNT Sports",TNT Sports FHD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34684
@@ -122,12 +108,11 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34864
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302743
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel FHD (LAT)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35023
+
 #EXTINF:-1 tvg-id="AXN", AXN
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/38
 #EXTINF:-1 tvg-id="National Geographic", National Geographic 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
-#EXTINF:-1 tvg-id="Discovery Home & Health",Home and Health 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/40
 #EXTINF:-1 tvg-id="Discovery Channel", Discovery Channel 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/42
 #EXTINF:-1 tvg-id="Animal Planet", Animal Planet 
@@ -142,16 +127,8 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/48
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
 #EXTINF:-1 tvg-id="MTV", MTV 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
-#EXTINF:-1 tvg-id="ViaX", ViaX 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
-#EXTINF:-1 tvg-id="Zona Latina", Zona Latina 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
-#EXTINF:-1 tvg-id="RCN",Canal RCN 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/54
 #EXTINF:-1 tvg-id="TBS",TBS 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
-#EXTINF:-1 ,TV+ 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/150
 #EXTINF:-1 ,Golden 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
 #EXTINF:-1 ,HTV 
@@ -176,7 +153,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
 #EXTINF:-1 ,DHE HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
-#EXTINF:-1 tvg-id="Discovery Home &amp; Health Latinoamerica", Discovery H&H HD 
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home &amp; Health", Discovery H&H
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
 #EXTINF:-1 ,Discovery HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
@@ -192,11 +169,11 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
 #EXTINF:-1 ,History Channel HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
-#EXTINF:-1 tvg-id="ID", Discovery ID HD 
+#EXTINF:-1 tvg-id="ID" tvg-name="Investigation Discovery", Discovery ID HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/242
-#EXTINF:-1 tvg-id="Nat Geo Wild",Nat Geo HD 
+#EXTINF:-1 tvg-name="National Geographic Wild", Nat Geo HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
-#EXTINF:-1 tvg-id="TNT Series LatinoAmerica HD",TNT Series
+#EXTINF:-1 tvg-id="TNT Series LatinoAmerica HD", TNT Series
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/263
 #EXTINF:-1 ,TRUTV HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
@@ -210,25 +187,21 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0002
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios AM",LR6  Mitre 790 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMSPOR.png" group-title="Canales TDA",América Sports
+#EXTINF:-1 tvg-name="América Sports" tvg-logo="http://www.radiosargentina.com.ar/png/VIAMSPOR.png" group-title="Canales TDA",América Sports
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ARGTV.png" group-title="Canales TDA",Argentinísima
+#EXTINF:-1 tvg-name="Argentinísima Satelital" tvg-logo="http://www.radiosargentina.com.ar/png/VI-ARGTV.png" group-title="Canales TDA",Argentinísima
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Canales TDA",Canal de la Ciudad
+#EXTINF:-1 tvg-name="Canal de la Ciudad" tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Canales TDA",Canal de la Ciudad
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----CM.png" group-title="Canales TDA",Canal de la Musica
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRURAL.png" group-title="Canales TDA",Canal Rural
+#EXTINF:-1 tvg-name="Canal Rural" tvg-logo="http://www.radiosargentina.com.ar/png/VICRURAL.png" group-title="Canales TDA",Canal Rural
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CGTN.png" group-title="Canales TDA",CGTN Español
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICHCRTV.png" group-title="Canales TDA",Chacra TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CNN.png" group-title="Canales TDA",CNN International
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" group-title="Canales TDA",DW Español
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0020
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Canales TDA",El Garage TV
+#EXTINF:-1 tvg-name="Garage TV" tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Canales TDA",El Garage TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0021
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="Canales TDA",Fashion TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0022
@@ -238,8 +211,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0024
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIHISPAN.png" group-title="Canales TDA",Hispan TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Canales TDA",KZO Entertaiment
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUSTOP.png" group-title="Canales TDA",Musictop
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0027
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---NHK.png" group-title="Canales TDA",NHK World
@@ -250,9 +221,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",TierraMia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0031
-#EXTINF:-1 tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",TN Todo Noticias
+#EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",TN Todo Noticias
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
+#EXTINF:-1 tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Canales TDA",GenTV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
@@ -260,25 +231,25 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0035
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIENCUEN.png" group-title="Canales TDA",Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPAKAPA.png" group-title="Canales TDA",Paka Paka
+#EXTINF:-1 tvg-name="Pakapaka" tvg-logo="http://www.radiosargentina.com.ar/png/VIPAKAPA.png" group-title="Canales TDA",Paka Paka
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0037
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AUNAR.png" group-title="Canales TDA",Aunar
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICINEAR.png" group-title="Canales TDA",CINE.AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0039
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-TECTV.png" group-title="Canales TDA",TECtv
+#EXTINF:-1 tvg-name="Tec TV" tvg-logo="http://www.radiosargentina.com.ar/png/VI-TECTV.png" group-title="Canales TDA",TECtv
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",LS82 TVP
+#EXTINF:-1 tvg-name="TV Pública" tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",TV Pública
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---DTV.png" group-title="Canales TDA",DTV Diputados
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Canales TDA",DEPORTV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="Canales TDA",France24 Español
+#EXTINF:-1 tvg-name="France 24 Español" tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="Canales TDA",France24 Español
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Canales TDA",Cronica
+#EXTINF:-1 tvg-name="Crónica TV" tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Canales TDA",Crónica TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",IP
+#EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",IP
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="Canales TDA",C5N
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
@@ -296,15 +267,15 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIURTEVE.png" group-title="Canales TDA",Urbana TeVe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA",LS85 El Trece
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA",LS85 El Trece
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
+#EXTINF:-1 tvg-name="Telefe" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",LS83 Canal 9
+#EXTINF:-1 tvg-name="El Nueve" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",LS83 Canal 9
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Canales TDA",LS86 America
+#EXTINF:-1 tvg-name="América TV" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Canales TDA",LS86 America
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
+#EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
 
@@ -314,8 +285,6 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312959
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
 #EXTINF:-1, tvg-id="MTVHD" group-title="Musica", MTV HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
-#EXTINF:-1, group-title="Musica", MTV HD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
 #EXTINF:-1, tvg-id="MTV Hits" group-title="Musica", MTVHits
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
 #EXTINF:-1, tvg-id="MTV Live" group-title="Musica", MTV Live LatinoAmerica HD
