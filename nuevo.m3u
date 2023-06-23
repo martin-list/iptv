@@ -186,6 +186,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0002
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios AM",LR6  Mitre 790 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Radios AM",KZO Entertaiment TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
 
 #EXTINF:-1 tvg-name="América Sports" tvg-logo="http://www.radiosargentina.com.ar/png/VIAMSPOR.png" group-title="Canales TDA",América Sports
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
