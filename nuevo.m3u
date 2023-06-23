@@ -129,17 +129,17 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
 #EXTINF:-1 tvg-id="TBS" group-title="Cable",TBS 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
-#EXTINF:-1 group-title="Cable",Golden 
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Cable",Golden 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
-#EXTINF:-1 group-title="Cable",HTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="Cable",HTV 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/177
-#EXTINF:-1 tvg-id="History 2" group-title="Cable", History 2 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" tvg-id="History 2" group-title="Cable", History 2 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
-#EXTINF:-1 group-title="Cable",HOLA TV 
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
-#EXTINF:-1 group-title="Cable",Paramount Network 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Cable",Paramount Network 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
-#EXTINF:-1 group-title="Cable",Tnt Series 
+#EXTINF:-1 tvg-logo=https://static.epg.best/br/TNTSeries.br.png" group-title="Cable",Tnt Series 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/191
 #EXTINF:-1 group-title="Cable",A&E HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/208
@@ -151,19 +151,19 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/210
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
 #EXTINF:-1 group-title="Cable",Comedy Central HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
-#EXTINF:-1 group-title="Cable",DHE HD 
+#EXTINF:-1 tvg-logo="https://photo.isu.pub/canaldhe/photo_large.jpg" group-title="Cable",DHE HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home &amp; Health" group-title="Cable", Discovery H&H
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health-hd_m.png" tvg-id="Discovery Home & Health" tvg-name="Discovery Home &amp; Health" group-title="Cable", Discovery H&H
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
 #EXTINF:-1 group-title="Cable",Discovery HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
-#EXTINF:-1 group-title="Cable",Discovery Theater HD 
+#EXTINF:-1 tvg-logo="https://www.agendameperu.com/wp-content/uploads/2009/07/discoverytheaterhd.jpg" group-title="Cable",Discovery Theater HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/224
 #EXTINF:-1 group-title="Cable",Discovery World HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/225
 #EXTINF:-1 group-title="Cable",Disney HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
-#EXTINF:-1 group-title="Cable",El Gourmet HD 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Elgourmet.com_logo_2.png/revision/latest?cb=20190606041345&path-prefix=es" group-title="Cable",El Gourmet HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
 #EXTINF:-1 group-title="Cable",History 2 HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
