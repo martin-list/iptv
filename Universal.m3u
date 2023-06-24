@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif" group-title="Peliculas",HBO HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/86858
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas",HBO PLUS HD
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas",HBO PLUS HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87121
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="Peliculas",HBO POP HD
+#EXTINF:-1 tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="Peliculas",HBO POP HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87120
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="Peliculas",HBO HD
@@ -28,7 +28,7 @@ http://playhispano.org:8080/marcos/UBNCfKt2W0/170739
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="Peliculas",HBO SIGNATURE HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87027
 
-#EXTINF:-1 tvg-name="HBO Xtreme" group-title="Peliculas",HBO XTREME FHD
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO Xtreme" group-title="Peliculas",HBO XTREME FHD
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35258
 #EXTINF:-1 tvg-name="HBO Xtreme HD" group-title="Peliculas",HBO XTREME HD
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302666
