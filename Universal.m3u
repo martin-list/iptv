@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema East" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="39" channel-id="39" group-title="Peliculas",Universal Cinema FHD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312948
-#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name="Universal Cinema" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="40" channel-id="40" group-title="Peliculas",Universal Cinema HD
+#EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="40" channel-id="40" group-title="Peliculas",Universal Cinema HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302740
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" tvg-chno="41" channel-id="41" group-title="Peliculas",Universal Comedy
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34854
