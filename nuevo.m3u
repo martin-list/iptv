@@ -1,9 +1,9 @@
 #EXTM3U 
-#EXTINF:-1,tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports HD (ARG)
+#EXTINF:-1 tvg-id="610DTSA.ar",tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123872
-#EXTINF:-1,tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports 2 HD (ARG)
+#EXTINF:-1 tvg-id="612DTS2.ar",tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports 2 HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34612
-#EXTINF:-1,tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports + HD (ARG)
+#EXTINF:-1 tvg-id="613DTSPlus.ar",tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports + HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123871
 #EXTINF:-1,tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DIRECTV",Directv Sports + HD (CO)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43430
