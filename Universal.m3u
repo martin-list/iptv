@@ -1,38 +1,24 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-hd-logo-300x300.jpg" group-title="Peliculas",HBO HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/86858
-
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas",HBO PLUS HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87121
-
-#EXTINF:-1 tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="Peliculas",HBO POP HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87120
-
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="Peliculas",HBO HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87022
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO LATINO" tvg-logo="https://i.picasion.com/pic92/ec5b90dd2d8cab2dbe29e94ebab6ff8a.gif" group-title="Peliculas",HBO LATINO
-http://playhispano.org:8080/marcos/UBNCfKt2W0/140934
-
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="Peliculas",HBO 2 HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87023
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.picasion.com/pic92/3fd122f5d2424806272898ee155f05a0.gif" group-title="Peliculas",HBO FAMILY
-http://playhispano.org:8080/marcos/UBNCfKt2W0/131118
-
-#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg" group-title="Peliculas",HBO MUNDI
-http://playhispano.org:8080/marcos/UBNCfKt2W0/170739
-
-#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="Peliculas",HBO SIGNATURE HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87027
-
-#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="Showtime Extreme" group-title="Peliculas",HBO XTREME FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35258
-#EXTINF:-1 tvg-name="HBO Xtreme HD" group-title="Peliculas",HBO XTREME HD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302666
-
-
-
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema East" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="39" channel-id="39" group-title="Peliculas",Universal Cinema FHD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312948
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="40" channel-id="40" group-title="Peliculas",Universal Cinema HD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302740
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" tvg-chno="41" channel-id="41" group-title="Peliculas",Universal Comedy
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34854
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" tvg-chno="42" channel-id="42" group-title="Peliculas",Universal Comedy HD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/304508
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime FHD (LAT)" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png" tvg-chno="43" channel-id="43" group-title="Peliculas",Universal Crime FHD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34853
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime Latino HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png" tvg-chno="44" channel-id="44" group-title="Peliculas",Universal Crime HD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302741
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" tvg-chno="45" channel-id="45" group-title="Peliculas",Universal Premiere HD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302742
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere East" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" tvg-chno="46" channel-id="46" group-title="Peliculas",Universal Premiere FHD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34875
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VLgnjpaQ-My_RZypNJ-pAqT-C92oIGRO7fie8ylU_UhlDJwQQufrTzWRR2gxCoiMi9Q&usqp=CAU" tvg-chno="48" channel-id="48" group-title="Peliculas",Universal Reality FHD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34864
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VLgnjpaQ-My_RZypNJ-pAqT-C92oIGRO7fie8ylU_UhlDJwQQufrTzWRR2gxCoiMi9Q&usqp=CAU" tvg-chno="49" channel-id="49" group-title="Peliculas",Universal Reality HD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302743
 
 
 
