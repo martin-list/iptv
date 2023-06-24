@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif" group-title="Peliculas",HBO HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/86858
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-hd-logo-300x300.jpg" group-title="Peliculas",HBO
+http://playhispano.org:8080/marcos/UBNCfKt2W0/170737
 
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas",HBO PLUS HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87121
@@ -13,8 +15,6 @@ http://playhispano.org:8080/marcos/UBNCfKt2W0/87022
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO LATINO" tvg-logo="https://i.picasion.com/pic92/ec5b90dd2d8cab2dbe29e94ebab6ff8a.gif" group-title="Peliculas",HBO LATINO
 http://playhispano.org:8080/marcos/UBNCfKt2W0/140934
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO" tvg-logo="http://144.217.80.14/cine/hbo.jpeg" group-title="Peliculas",HBO
-http://playhispano.org:8080/marcos/UBNCfKt2W0/170737
 
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="Peliculas",HBO 2 HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87023
