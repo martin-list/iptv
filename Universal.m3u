@@ -1,27 +1,31 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema East" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="39" channel-id="39" group-title="Peliculas",Universal Cinema FHD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312948
-#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="40" channel-id="40" group-title="Peliculas",Universal Cinema HD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302740
-#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" tvg-chno="41" channel-id="41" group-title="Peliculas",Universal Comedy
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34854
-#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" tvg-chno="42" channel-id="42" group-title="Peliculas",Universal Comedy HD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/304508
-#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png" tvg-chno="43" channel-id="43" group-title="Peliculas",Universal Crime FHD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34853
-#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime Latino HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png" tvg-chno="44" channel-id="44" group-title="Peliculas",Universal Crime HD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302741
-#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" tvg-chno="45" channel-id="45" group-title="Peliculas",Universal Premiere HD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302742
-#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere East" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" tvg-chno="46" channel-id="46" group-title="Peliculas",Universal Premiere FHD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34875
-#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VLgnjpaQ-My_RZypNJ-pAqT-C92oIGRO7fie8ylU_UhlDJwQQufrTzWRR2gxCoiMi9Q&usqp=CAU" tvg-chno="48" channel-id="48" group-title="Peliculas",Universal Reality FHD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34864
-#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VLgnjpaQ-My_RZypNJ-pAqT-C92oIGRO7fie8ylU_UhlDJwQQufrTzWRR2gxCoiMi9Q&usqp=CAU" tvg-chno="49" channel-id="49" group-title="Peliculas",Universal Reality HD
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302743
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FSALA" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="6" channel-id="6" group-title="Deportes",Fox Sports FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34641
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="Deportes",Fox Sports HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34640
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="Deportes"",Fox Sports 2 HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34643
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34646
 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes", ESPN
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34660
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123874
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes", ESPN 2
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34664
+#EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes", ESPN 3
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34666
 
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="17" channel-id="17" group-title="Deportes",TNT Sports HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34683
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="18" channel-id="18" group-title="Deportes",TNT Sports FHD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34684
 
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes", TyC Sports SD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34685
+#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes", TyC Sports Internacional HD (ARG)
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34688
 
 
 
