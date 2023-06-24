@@ -189,7 +189,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
 
 #EXTINF:-1 tvg-name="América Sports" tvg-logo="http://www.radiosargentina.com.ar/png/VIAMSPOR.png" group-title="Canales TDA",América Sports
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
-#EXTINF:-1 tvg-name="Argentinísima Satelital" tvg-logo="http://www.radiosargentina.com.ar/png/VI-ARGTV.png" group-title="Canales TDA",Argentinísima
+#EXTINF:-1 tvg-name="Argentinísima Satelital" tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="Canales TDA",Argentinísima
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
 #EXTINF:-1 tvg-name="Canal de la Ciudad" tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Canales TDA",Canal de la Ciudad
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
@@ -279,11 +279,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
 #EXTINF:-1, tvg-name="MTV 00s Latinoamerica" tvg-logo="https://yt3.googleusercontent.com/rYDUvJgOVELMg4lk8VHKBCBS5OyxFf69yPaUiSVUkGEIEUPgh3Uab8ZBXC9SWkop5lSICyO7l3w=s900-c-k-c0x00ffffff-no-rj" group-title="Musica", MTV 00s
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312959
-#EXTINF:-1, tvg-name="MTV 80's" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/MTV_80s_Xmas_2022.png" group-title="Musica", MTV 80's
+#EXTINF:-1, tvg-name="MTV 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/640px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="Musica", MTV 80's
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
 #EXTINF:-1, tvg-id="MTVHD" group-title="Musica", MTV HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
 #EXTINF:-1, tvg-id="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/240px-MTV_Hits_2017_logo.svg.png" group-title="Musica", MTVHits
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
-#EXTINF:-1, tvg-id="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/MTV_Live.svg" group-title="Musica", MTV Live LatinoAmerica HD
+#EXTINF:-1, tvg-id="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MTV_Live_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20191212180434" group-title="Musica", MTV Live LatinoAmerica HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
