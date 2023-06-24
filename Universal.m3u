@@ -1,119 +1,38 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif" group-title=" TV | CINE LATINO  (HD)",LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif" group-title="Peliculas",HBO HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/86858
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title=" TV | CINE LATINO  (HD)",LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)
-http://playhispano.org:8080/marcos/UBNCfKt2W0/86861
 
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="TV | MEXICO (FHD,HD,SD)",HBO PLUS HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87026
 #EXTINF:-1 tvg-id="" tvg-name="MX |* HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="TV | MEXICO (FHD,HD,SD)",MX |* HBO PLUS HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87121
-#EXTINF:-1 tvg-id="" tvg-name="Latino 2mb - HBO Plus" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title=" TV | CANALES LATINO 2MB /LATIN CHANNELS 2MB (SD)",Latino 2mb - HBO Plus
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87463
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="MX | HBO Plus" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title=" TV | CINE LATINO  (HD)",MX | HBO Plus
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90193
-#EXTINF:-1 tvg-id="" tvg-name="SD_LAT: Hbo Plus West" tvg-logo="https://i.picasion.com/pic92/fed04de429b8e2d9a95f0115b063606d.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: Hbo Plus West
-http://playhispano.org:8080/marcos/UBNCfKt2W0/131097
-#EXTINF:-1 tvg-id="" tvg-name="SD_LAT: Hbo Plus" tvg-logo="https://i.picasion.com/pic92/4fed05a2febfc8f5b0759395af2b8fd1.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: Hbo Plus
-http://playhispano.org:8080/marcos/UBNCfKt2W0/131117
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HQ | HBO PLUS" tvg-logo="http://144.217.80.14/cine/hboplus.jpeg" group-title=" TV | CINE LATINO  (HD)",HQ | HBO PLUS
-http://playhispano.org:8080/marcos/UBNCfKt2W0/170740
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="TV | MEXICO (FHD,HD,SD)",HBO POP HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87016
 #EXTINF:-1 tvg-id="" tvg-name="MX |* HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="TV | MEXICO (FHD,HD,SD)",MX |* HBO POP HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87120
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="MX | HBO Pop" tvg-logo="http://playhispano.org:8080/images/ad7c604a311bc79f9110eaa409f12719.jpg" group-title=" TV | CINE LATINO  (HD)",MX | HBO Pop
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90194
-#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="HQ | HBO POP" tvg-logo="http://iptvglobal.site:25461/images/ad7c604a311bc79f9110eaa409f12719.jpeg" group-title=" TV | CINE LATINO  (HD)",HQ | HBO POP
-http://playhispano.org:8080/marcos/UBNCfKt2W0/170741
-#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="IZMX | HBO Pop" tvg-logo="http://iptvglobal.site:25461/images/ad7c604a311bc79f9110eaa409f12719.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | HBO Pop
-http://playhispano.org:8080/marcos/UBNCfKt2W0/163312
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="TV | MEXICO (FHD,HD,SD)",HBO HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87022
-#EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - HBO" tvg-logo="https://i.picasion.com/pic92/4015d23b84af662c80b672a90d7ea5cb.gif" group-title=" TV | CANALES LATINO 2MB /LATIN CHANNELS 2MB (SD)",Latino  2mb - HBO
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87462
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="HDMX | HBO" tvg-logo="http://playhispano.org:25461/images/20590cac6bdbb1d87c1d1587da998b23.jpg" group-title=" TV | CINE LATINO  (HD)",HDMX | HBO
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90199
-#EXTINF:-1 tvg-id="" tvg-name="SD_LAT: Hbo East" tvg-logo="https://i.picasion.com/pic92/161769e597ab74dcf98d9caab9dc6bc4.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: Hbo East
-http://playhispano.org:8080/marcos/UBNCfKt2W0/131096
-#EXTINF:-1 tvg-id="" tvg-name="SD_LAT: Hbo West" tvg-logo="https://i.picasion.com/pic92/6f5439de37f999a5856fdf03ef55cbda.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: Hbo West
-http://playhispano.org:8080/marcos/UBNCfKt2W0/131099
-#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO LATINO DIRECTV" tvg-logo="https://i.picasion.com/pic92/ec5b90dd2d8cab2dbe29e94ebab6ff8a.gif" group-title=" TV | CINE LATINO  (HD)",CINE| HBO LATINO DIRECTV
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO LATINO" tvg-logo="https://i.picasion.com/pic92/ec5b90dd2d8cab2dbe29e94ebab6ff8a.gif" group-title=" TV | CINE LATINO  (HD)",CINE| HBO LATINO DIRECTV
 http://playhispano.org:8080/marcos/UBNCfKt2W0/140934
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HQ | HBO" tvg-logo="http://144.217.80.14/cine/hbo.jpeg" group-title=" TV | CINE LATINO  (HD)",HQ | HBO
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO" tvg-logo="http://144.217.80.14/cine/hbo.jpeg" group-title=" TV | CINE LATINO  (HD)",HQ | HBO
 http://playhispano.org:8080/marcos/UBNCfKt2W0/170737
 
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TV | MEXICO (FHD,HD,SD)",HBO 2 HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87023
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="IZMX | HBO 2" tvg-logo="http://iptvglobal.site:25461/images/a7f9c898c812805f26c4ea1e490201da.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | HBO 2
-http://playhispano.org:8080/marcos/UBNCfKt2W0/163331
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="MX |* HBO 2 HD" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TV | MEXICO (FHD,HD,SD)",MX |* HBO 2 HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87045
-#EXTINF:-1 tvg-id="hbo2pacific.us" tvg-name="MX | HBO 2" tvg-logo="http://playhispano.org:8080/images/675664b597f318f30d66c8d8834ea421.jpg" group-title=" TV | CINE LATINO  (HD)",MX | HBO 2
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90189
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HDMX | HBO 2" tvg-logo="http://playhispano.org:8080/images/675664b597f318f30d66c8d8834ea421.jpg" group-title=" TV | CINE LATINO  (HD)",HDMX | HBO 2
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90200
-#EXTINF:-1 tvg-id="hbowest.us" tvg-name="PREM (FHD): HBO 2 WEST" tvg-logo="http://playhispano.org:25461/images/28a0ef9f605ab05bc020e26aebb80c17.png" group-title=" TV | CINE LATINO  (HD)",PREM (FHD): HBO 2 WEST
-http://playhispano.org:8080/marcos/UBNCfKt2W0/130342
-#EXTINF:-1 tvg-id="" tvg-name="SD_LAT: Hbo 2" tvg-logo="https://i.picasion.com/pic92/8018ce56b94dd4aaa428511f5ead3cb5.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: Hbo 2
-http://playhispano.org:8080/marcos/UBNCfKt2W0/131122
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HQ | HBO 2" tvg-logo="http://iptvglobal.site:25461/images/a7f9c898c812805f26c4ea1e490201da.jpeg" group-title=" TV | CINE LATINO  (HD)",HQ | HBO 2
-http://playhispano.org:8080/marcos/UBNCfKt2W0/170738
 
-#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="TV | MEXICO (FHD,HD,SD)",HBO FAMILY HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87024
-#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="MX |* HBO FAMILY HD" tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="TV | MEXICO (FHD,HD,SD)",MX |* HBO FAMILY HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87042
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="MX | HBO Family" tvg-logo="http://playhispano.org:25461/images/a4c0db3fc3fcab436feba24bbbbe0316.jpg" group-title=" TV | CINE LATINO  (HD)",MX | HBO Family
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90191
-#EXTINF:-1 tvg-id="" tvg-name="SD_LAT: Hbo Family" tvg-logo="https://i.picasion.com/pic92/3fd122f5d2424806272898ee155f05a0.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: Hbo Family
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.picasion.com/pic92/3fd122f5d2424806272898ee155f05a0.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: Hbo Family
 http://playhispano.org:8080/marcos/UBNCfKt2W0/131118
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="FHD | HBO FAMILY" tvg-logo="http://playhispano.org:25461/images/a4c0db3fc3fcab436feba24bbbbe0316.jpg" group-title=" TV | CINE LATINO  (HD)",FHD | HBO FAMILY
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90270
-#EXTINF:-1 tvg-id="" tvg-name="MXVIP| HBO Family" tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="TV | MEXICO (FHD,HD,SD)",MXVIP| HBO Family
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87212
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="TV | MEXICO (FHD,HD,SD)",HBO MUNDI HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87025
-#EXTINF:-1 tvg-id="hbowest.us" tvg-name="MX | HBO Mundi" tvg-logo="http://playhispano.org:8080/images/92c7f2a578f371c05f0ac9b85ea00f9f.jpg" group-title=" TV | CINE LATINO  (HD)",MX | HBO Mundi
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90192
-#EXTINF:-1 tvg-id="" tvg-name="MX |* HBO MUNDI HD" tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="TV | MEXICO (FHD,HD,SD)",MX |* HBO MUNDI HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/124496
-#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HQ | HBO Mundi" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg" group-title=" TV | CINE LATINO  (HD)",HQ | HBO Mundi
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO Mundi" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg" group-title=" TV | CINE LATINO  (HD)",HQ | HBO Mundi
 http://playhispano.org:8080/marcos/UBNCfKt2W0/170739
-#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="IZMX | HBO Mundi" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | HBO Mundi
-http://playhispano.org:8080/marcos/UBNCfKt2W0/163327
 
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="TV | MEXICO (FHD,HD,SD)",HBO SIGNATURE HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87027
-#EXTINF:-1 tvg-id="" tvg-name="MX |* HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="TV | MEXICO (FHD,HD,SD)",MX |* HBO SIGNATURE HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87119
-#EXTINF:-1 tvg-id="" tvg-name="Latino 2mb - HBO Signature" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title=" TV | CANALES LATINO 2MB /LATIN CHANNELS 2MB (SD)",Latino 2mb - HBO Signature
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87464
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="MX | HBO Signature" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title=" TV | CINE LATINO  (HD)",MX | HBO Signature
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90195
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="PREM (FHD): HBO SIGNATURE" tvg-logo="http://playhispano.org:25461/images/2d8212db401c37ec54896a3ebf0fe629.png" group-title=" TV | CINE LATINO  (HD)",PREM (FHD): HBO SIGNATURE
-http://playhispano.org:8080/marcos/UBNCfKt2W0/130345
-#EXTINF:-1 tvg-id="" tvg-name="SD_LAT: Hbo Signature" tvg-logo="https://i.picasion.com/pic92/89dc685e0eb3dacee5100cfc91e855fe.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: Hbo Signature
-http://playhispano.org:8080/marcos/UBNCfKt2W0/131098
-#EXTINF:-1 tvg-id="" tvg-name="MXVIP| HBO Signature" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="TV | MEXICO (FHD,HD,SD)",MXVIP| HBO Signature
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87213
-#EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="IZMX | HBO Signature" tvg-logo="http://iptvglobal.site:25461/images/b9fea3bcb3d1d57ebe9179ab32fee00c.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | HBO Signature
-http://playhispano.org:8080/marcos/UBNCfKt2W0/163328
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME HD" tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png" group-title="TV | MEXICO (FHD,HD,SD)",HBO EXTREME HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87028
-#EXTINF:-1 tvg-id="" tvg-name="MX |* HBO XTREME HD" tvg-logo="http://playhispano.org:8080/images/227c5a7767e2742104de1c193474174b.png" group-title="TV | MEXICO (FHD,HD,SD)",MX |* HBO XTREME HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87041
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="MX | HBO Extreme" tvg-logo="http://playhispano.org:8080/images/3d85a8c42a57d5fc2496061270e2352d.jpg" group-title=" TV | CINE LATINO  (HD)",MX | HBO Extreme
-http://playhispano.org:8080/marcos/UBNCfKt2W0/90190
-#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HQ |HBO Xtreme" tvg-logo="http://playhispano.org:8080/images/3d85a8c42a57d5fc2496061270e2352d.jpg" group-title=" TV | CINE LATINO  (HD)",HQ |HBO Xtreme
-http://playhispano.org:8080/marcos/UBNCfKt2W0/170742
+#EXTINF:-1 tvg-name="HBO Xtreme",HBO Xtreme FHD (MX E)
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35258
+#EXTINF:-1 tvg-name="HBO Xtreme HD",HBO Xtreme HD (MX VIP)
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302666
 
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="CINE| VIP  HBO MAX HD" tvg-logo="https://i.picasion.com/pic92/174513280b7d634977f582fddc2523e4.gif" group-title=" TV | CINE LATINO  (HD)",CINE| VIP  HBO MAX HD
-http://playhispano.org:8080/marcos/UBNCfKt2W0/109240
 
 
 
