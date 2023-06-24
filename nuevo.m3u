@@ -15,32 +15,32 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123885
 #EXTINF:-1 tvg-name="Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="CLARO", Claro Sports
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34618
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="6" channel-id="6" group-title="FOX Sports",Fox Sports FHD (ARG)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FSALA" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="6" channel-id="6" group-title="Deportes",Fox Sports FHD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34641
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="FOX Sports",Fox Sports HD (ARG)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="Deportes",Fox Sports HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34640
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="FOX Sports",Fox Sports 2 HD (ARG)
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="Deportes"",Fox Sports 2 HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34643
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX Sports 3" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="FOX Sports",Fox Sports 3 HD (ARG)
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34646
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes", ESPN
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34660
-#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png", ESPN Premium
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123874
-#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes", ESPN 2
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34664
-#EXTINF:-1 tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png", ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes", ESPN 3
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34666
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="17" channel-id="17" group-title="TNT Sports",TNT Sports HD (ARG)
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="17" channel-id="17" group-title="Deportes",TNT Sports HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34683
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="18" channel-id="18" group-title="TNT Sports",TNT Sports FHD (ARG)
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="18" channel-id="18" group-title="Deportes",TNT Sports FHD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34684
 
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="TyC Sports", TyC Sports SD (ARG)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes", TyC Sports SD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34685
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS Internacional HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="TyC Sports", TyC Sports Internacional HD (ARG)
+#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes", TyC Sports Internacional HD (ARG)
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34688
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-hd-logo-300x300.jpg" group-title="Peliculas",HBO HD
