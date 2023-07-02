@@ -57,7 +57,7 @@ http://playhispano.org:8080/marcos/UBNCfKt2W0/131118
 http://playhispano.org:8080/marcos/UBNCfKt2W0/170739
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="Peliculas",HBO SIGNATURE HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87027
-#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="Showtime Extreme" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="Peliculas",HBO XTREME FHD
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="Peliculas",HBO XTREME FHD
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35258
 #EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://www.ncoop.com.ar/wp-content/grand-media/image/507_-_HD.png" group-title="Peliculas",HBO XTREME HD
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302666
@@ -258,9 +258,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312959
 #EXTINF:-1, tvg-name="MTV 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/640px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="Musica", MTV 80's
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
-#EXTINF:-1, tvg-id="MTVHD" group-title="Musica", MTV HD
+#EXTINF:-1, tvg-name="MTV HD" tvg-id="MTVHD" group-title="Musica", MTV HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
-#EXTINF:-1, tvg-id="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/240px-MTV_Hits_2017_logo.svg.png" group-title="Musica", MTVHits
+#EXTINF:-1, tvg-name="MTV Hits" tvg-id="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/240px-MTV_Hits_2017_logo.svg.png" group-title="Musica", MTVHits
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
-#EXTINF:-1, tvg-id="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MTV_Live_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20191212180434" group-title="Musica", MTV Live LatinoAmerica HD
+#EXTINF:-1, tvg-name="MTV Live" tvg-id="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MTV_Live_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20191212180434" group-title="Musica", MTV Live LatinoAmerica HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
