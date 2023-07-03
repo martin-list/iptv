@@ -1,33 +1,35 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FSALA" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="6" channel-id="6" group-title="Deportes",Fox Sports FHD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34641
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="Deportes",Fox Sports HD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34640
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="Deportes"",Fox Sports 2 HD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34643
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 HD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34646
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://1.bp.blogspot.com/-Gfd3q_dcGlM/X_Gzh26Bm4I/AAAAAAAA7NI/WtmUCPd2s9wYn3I7SMxTTrzlZOV-1PqqQCLcBGAsYHQ/s1080/HBOSSS.png" group-title="Peliculas",HBO
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324328.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO (OPC1)" tvg-logo="https://1.bp.blogspot.com/-Gfd3q_dcGlM/X_Gzh26Bm4I/AAAAAAAA7NI/WtmUCPd2s9wYn3I7SMxTTrzlZOV-1PqqQCLcBGAsYHQ/s1080/HBOSSS.png" group-title="Peliculas",HBO (OPC1)
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139414.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS 2" tvg-logo="https://1.bp.blogspot.com/-eSWCj0lNaOE/X_GzhTylf0I/AAAAAAAA7NA/MyteLsORzKc6l-LW5eZlgbsJjt7G2jO6gCLcBGAsYHQ/s1080/HBOPLU.png" group-title="Peliculas",HBO PLUS 2
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121635.ts
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="HBO POP FHD" tvg-logo="https://1.bp.blogspot.com/-65bitSUQwjE/X_GzgffRqVI/AAAAAAAA7M0/7mSLZVCh5-0s9NwYzndn59yjuEntQzsCQCLcBGAsYHQ/s1080/HBO%2BPO.png" group-title="Peliculas",HBO POP FHD
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121637.ts
+#EXTINF:-1 tvg-id="hbosignaturelatinamerica.pa" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://1.bp.blogspot.com/-UNvJLg3DCDQ/X_GzhrAooYI/AAAAAAAA7NE/1gPzMPkVklkJMKi7ajLagxHeL03mlykcgCLcBGAsYHQ/s1080/HBOS.png" group-title="Peliculas",HBO SIGNATURE FHD
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/46887.ts
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO XTREME HD" tvg-logo="https://1.bp.blogspot.com/-NbZN2LrlPak/X_GzsRnB75I/AAAAAAAA7Ow/dBwEt40G4x8wwuFgklM91aBZy-9qpEOSACLcBGAsYHQ/s1080/hbo%2Bxt.png" group-title="Peliculas",HBO XTREME HD
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121639.ts
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes", ESPN
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34660
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123874
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes", ESPN 2
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34664
-#EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes", ESPN 3
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34666
-
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="17" channel-id="17" group-title="Deportes",TNT Sports HD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34683
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" tvg-chno="18" channel-id="18" group-title="Deportes",TNT Sports FHD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34684
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes", TyC Sports SD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34685
-#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes", TyC Sports Internacional HD (ARG)
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34688
-
-
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-hd-logo-300x300.jpg" group-title="Peliculas",HBO HD
+http://playhispano.org:8080/marcos/UBNCfKt2W0/86858
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas",HBO PLUS HD
+http://playhispano.org:8080/marcos/UBNCfKt2W0/87121
+#EXTINF:-1 tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="Peliculas",HBO POP HD
+http://playhispano.org:8080/marcos/UBNCfKt2W0/87120
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="Peliculas",HBO 2 HD
+http://playhispano.org:8080/marcos/UBNCfKt2W0/87023
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.picasion.com/pic92/3fd122f5d2424806272898ee155f05a0.gif" group-title="Peliculas",HBO FAMILY
+http://playhispano.org:8080/marcos/UBNCfKt2W0/131118
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg" group-title="Peliculas",HBO MUNDI
+http://playhispano.org:8080/marcos/UBNCfKt2W0/170739
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="Peliculas",HBO SIGNATURE HD
+http://playhispano.org:8080/marcos/UBNCfKt2W0/87027
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="Peliculas",HBO XTREME FHD
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35258
+#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://www.ncoop.com.ar/wp-content/grand-media/image/507_-_HD.png" group-title="Peliculas",HBO XTREME HD
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302666
 
 
 
