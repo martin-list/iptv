@@ -102,8 +102,6 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299987.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/50966.ts
 #EXTINF:-1 tvg-id="TVE America Television Española" group-title="Cable",TVE 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
-#EXTINF:-1 tvg-id="MTV" group-title="Musica", MTV 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
 #EXTINF:-1 tvg-id="TBS" group-title="Cable",TBS 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Cable",Golden 
@@ -263,8 +261,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
+#EXTINF:-1 tvg-id="MTV" group-title="Musica", MTV 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
 #EXTINF:-1, tvg-name="MTV 00s Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musica", MTV 00s
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312959
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35035
 #EXTINF:-1, tvg-name="MTV 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/640px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="Musica", MTV 80's
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
 #EXTINF:-1, tvg-name="MTV HD" tvg-id="MTVHD" group-title="Musica", MTV HD
