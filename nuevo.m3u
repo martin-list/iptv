@@ -64,8 +64,6 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35258
 #EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO XTREME HD" tvg-logo="https://1.bp.blogspot.com/-NbZN2LrlPak/X_GzsRnB75I/AAAAAAAA7Ow/dBwEt40G4x8wwuFgklM91aBZy-9qpEOSACLcBGAsYHQ/s1080/hbo%2Bxt.png" group-title="Peliculas",HBO XTREME HD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302666
 
-
-#EXTM3U 
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema East" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="39" channel-id="39" group-title="Peliculas",Universal Cinema FHD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312948
 #EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="40" channel-id="40" group-title="Peliculas",Universal Cinema HD
@@ -93,7 +91,7 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35023
 #EXTINF:-1 tvg-id="National Geographic" group-title="Cable", National Geographic 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Cable", Animal Planet 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/43
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166509.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" tvg-id="CNN en Español" group-title="Cable", CNN en Español 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299987.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" tvg-id="E! Entertainment TV" group-title="Cable", E Entertainment 
@@ -108,8 +106,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="Cable",HTV 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/177
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" tvg-id="History 2" group-title="Cable", History 2 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Cable",Paramount Network 
@@ -117,11 +113,13 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
 #EXTINF:-1 group-title="Cable",A&E HD 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/118599.ts
 #EXTINF:-1 group-title="Cable",AMC HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/209
-#EXTINF:-1 group-title="Cable",AXN HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/210
-#EXTINF:-1 group-title="Cable",Animal Planet HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324326.ts
+#EXTINF:-1 group-title="Cable",AXN HD
+#EXTINF:-1 tvg-id="axncentral.pa" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="Cable",AXN opcion 1
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/147173.ts 
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324319.ts
+#EXTINF:-1 group-title="Cable",Animal Planet 
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139144.ts
 #EXTINF:-1 group-title="Cable",Comedy Central HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
 #EXTINF:-1 tvg-logo="https://photo.isu.pub/canaldhe/photo_large.jpg" group-title="Cable",DHE HD 
@@ -138,10 +136,14 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/225
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Elgourmet.com_logo_2.png/revision/latest?cb=20190606041345&path-prefix=es" group-title="Cable",El Gourmet HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="Cable",History 2 HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
 #EXTINF:-1 group-title="Cable",History Channel HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://1.bp.blogspot.com/-FVE4NZ73dZs/X-p_BfS-f4I/AAAAAAAA6-Q/VWD6dgz480oAP3Wumur_LM-4v-Jp61dEgCLcBGAsYHQ/s1080/h1.png" group-title="Cable",HISTORY HD 
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323870.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" tvg-id="History 2" group-title="Cable", History 2 
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="Cable",History 2 HD 
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166489.ts
 #EXTINF:-1 tvg-id="ID" tvg-name="Investigation Discovery" group-title="Cable", Discovery ID HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/242
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Cable", Nat Geo HD 
