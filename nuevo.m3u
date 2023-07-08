@@ -123,15 +123,23 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139144.ts
 #EXTINF:-1 group-title="Cable",Comedy Central HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
 #EXTINF:-1 tvg-logo="https://photo.isu.pub/canaldhe/photo_large.jpg" group-title="Cable",DHE HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/63766.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health-hd_m.png" tvg-id="Discovery Home & Health" tvg-name="Discovery Home &amp; Health" group-title="Cable",Discovery H&H
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
-#EXTINF:-1 group-title="Cable",Discovery HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY CHANNEL 1" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="Cable",DISCOVERY CHANNEL 1
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85726.ts
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY CHANNEL 2" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="Cable",DISCOVERY CHANNEL 2
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85727.ts
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY CHANNEL 3" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="Cable",DISCOVERY CHANNEL 3
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85728.ts
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY CHANNEL 4" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="Cable",DISCOVERY CHANNEL 4
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323868.ts
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY FAMILIA HD" tvg-logo="https://1.bp.blogspot.com/-n4fBFVa69t8/X-p6g4QASmI/AAAAAAAA68s/gNat8346Elowftc2iOuxOkoEkAjngky-wCLcBGAsYHQ/s1080/DF.png" group-title="Cable",DISCOVERY FAMILIA HD
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121708.ts
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="Cable",Discovery Theater HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/224
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323859.ts
 #EXTINF:-1 group-title="Cable",Discovery World HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/225
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323861.ts
 #EXTINF:-1 tvg-logo="https://i.blogs.es/81aa17/disney_channel/1366_2000.png" group-title="Cable",Disney HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Elgourmet.com_logo_2.png/revision/latest?cb=20190606041345&path-prefix=es" group-title="Cable",El Gourmet HD 
