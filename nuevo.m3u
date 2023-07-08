@@ -90,7 +90,9 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35023
 
 #EXTINF:-1 tvg-id="National Geographic" group-title="Cable", National Geographic 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
-#EXTINF:-1 tvg-id="Animal Planet" group-title="Cable", Animal Planet 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139144.ts
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Cable", Animal Planet 2
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166509.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" tvg-id="CNN en Español" group-title="Cable", CNN en Español 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299987.ts
@@ -118,8 +120,6 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324326.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/147173.ts 
 #EXTINF:-1 tvg-id="axncentral.pa" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="Cable",AXN opcion 1
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324319.ts
-#EXTINF:-1 group-title="Cable",Animal Planet 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139144.ts
 #EXTINF:-1 group-title="Cable",Comedy Central HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
 #EXTINF:-1 tvg-logo="https://photo.isu.pub/canaldhe/photo_large.jpg" group-title="Cable",DHE HD 
