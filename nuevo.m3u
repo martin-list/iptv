@@ -110,7 +110,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/177
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
-#EXTINF:-1,Volver
+#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable",Volver 
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43346
 #EXTINF:-1 group-title="Cable",A&E HD 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/118599.ts
