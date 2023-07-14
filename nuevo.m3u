@@ -86,18 +86,22 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166509.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299987.ts
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="DIRECTO : E ENTERTAINMENT TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" tvg-id="E! Entertainment TV" group-title="Cable",E Entertainment 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/50966.ts
-#EXTINF:-1 tvg-id="TVE America Television Española" group-title="Cable",TVE 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
 #EXTINF:-1 tvg-id="TBS" group-title="Cable",TBS 
 http://a.alcapone1.com:8080/Tommy/123456/14046
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Cable",Golden 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302658
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Cable",Golden Plus
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302659
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Cable",Golden Premier
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302660
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="Cable",HTV 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/177
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35025
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35044
 #EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable",Volver 
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43346
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-small.png" group-title="Cable",HGTV HD
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302672
 #EXTINF:-1 group-title="Cable",A&E HD 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/118599.ts
 #EXTINF:-1 group-title="Cable",AMC HD 
@@ -111,17 +115,9 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/63840.ts
 #EXTINF:-1 tvg-logo="https://photo.isu.pub/canaldhe/photo_large.jpg" group-title="Cable",DHE HD 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/63766.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health-hd_m.png" tvg-id="Discovery Home & Health" tvg-name="Discovery Home &amp; Health" group-title="Cable",Discovery H&H
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/313128
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="DISCOVERY H&H HD " tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable",DISCOVERY H&H HD 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85731.ts
-#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY CHANNEL 1" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="Cable",DISCOVERY CHANNEL 1
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85726.ts
-#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY CHANNEL 2" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="Cable",DISCOVERY CHANNEL 2
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85727.ts
-#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY CHANNEL 3" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="Cable",DISCOVERY CHANNEL 3
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85728.ts
-#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY CHANNEL 4" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="Cable",DISCOVERY CHANNEL 4
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323868.ts
 #EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DISCOVERY FAMILIA HD" tvg-logo="https://1.bp.blogspot.com/-n4fBFVa69t8/X-p6g4QASmI/AAAAAAAA68s/gNat8346Elowftc2iOuxOkoEkAjngky-wCLcBGAsYHQ/s1080/DF.png" group-title="Cable",DISCOVERY FAMILIA HD
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121708.ts
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="Cable",Discovery Theater HD 
@@ -129,25 +125,29 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323859.ts
 #EXTINF:-1 group-title="Cable",Discovery World HD 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323861.ts
 #EXTINF:-1 tvg-logo="https://i.blogs.es/81aa17/disney_channel/1366_2000.png" group-title="Cable",Disney HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/313152
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Elgourmet.com_logo_2.png/revision/latest?cb=20190606041345&path-prefix=es" group-title="Cable",El Gourmet HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
-#EXTINF:-1 group-title="Cable",History Channel HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35047
+#EXTINF:-1 group-title="Cable",History Channel
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/313133
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://1.bp.blogspot.com/-FVE4NZ73dZs/X-p_BfS-f4I/AAAAAAAA6-Q/VWD6dgz480oAP3Wumur_LM-4v-Jp61dEgCLcBGAsYHQ/s1080/h1.png" group-title="Cable",HISTORY HD 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323870.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" tvg-id="History 2" group-title="Cable",History 2 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="Cable",History 2 HD 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166489.ts
-#EXTINF:-1 tvg-id="ID" tvg-name="Investigation Discovery" group-title="Cable",Discovery ID HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/242
+#EXTINF:-1 tvg-id="ID" tvg-name="Investigation Discovery" group-title="Cable",Discovery ID
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302674
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX" tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="Cable",FXHD 
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34976
+#EXTINF:-1 tvg-id="Film & Arts" tvg-name="Film &amp; Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" ,Film & Arts HD
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/312789
+
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Cable",Nat Geo HD 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
+
 #EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NAT GEO WILD" tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="Cable",NAT GEO WILD
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129773.ts
 #EXTINF:-1 group-title="Cable",TRUTV HD 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/313136
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios AM",LS4  Continental 590 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
@@ -248,7 +248,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
 #EXTINF:-1 tvg-id="MTV" group-title="Musica",MTV 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35018
 #EXTINF:-1, tvg-name="MTV 00s Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musica",MTV 00s
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35035
 #EXTINF:-1, tvg-name="MTV 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/640px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="Musica",MTV 80's
