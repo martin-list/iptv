@@ -1,8 +1,8 @@
 #EXTM3U 
 
-#EXTINF:-1,tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes"",Directv Sports
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-name="ARG | DIRECTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes"",Directv Sports
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43431
-#EXTINF:-1 tvg-id="612DTS2.ar",tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Directv Sports 2
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Directv Sports 2
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34612
 #EXTINF:-1 tvg-id="613DTSPlus.ar",tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Directv Sports +
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123871
