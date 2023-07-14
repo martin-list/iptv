@@ -70,8 +70,12 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121642.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121650.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="https://1.bp.blogspot.com/-dIfGuoVc-RM/X_HaqVXEysI/AAAAAAAA7QU/Y8Jx-g6_awgxep9Dl_UelB3pVkYFaSnNwCLcBGAsYHQ/s1080/univr.png" group-title="Peliculas",UNIVERSAL TV
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324321.ts
+#EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Peliculas",Cinecanal
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34991
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Peliculas",Cinemax
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/313036
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://1.bp.blogspot.com/-y9I3MN7FsMw/X-p6iyAhglI/AAAAAAAA688/YZ6n0PgHqsApsMS0oYSsscavtRIIQ2gwwCLcBGAsYHQ/s1080/DTLC.png" group-title="Cable",DISCOVERY TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://1.bp.blogspot.com/-y9I3MN7FsMw/X-p6iyAhglI/AAAAAAAA688/YZ6n0PgHqsApsMS0oYSsscavtRIIQ2gwwCLcBGAsYHQ/s1080/DTLC.png" group-title="Cable",DISCOVERY TLC
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129169.ts
 #EXTINF:-1 tvg-name="National Geographic" group-title="Cable",National Geographic 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139410.ts
