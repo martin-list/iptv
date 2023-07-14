@@ -15,7 +15,7 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34640
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="Deportes"",Fox Sports 2
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34643
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34646
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48963.ts
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes",ESPN
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34660
@@ -65,12 +65,16 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302742
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302743
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Peliculas",Paramount Network 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
-#EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35023
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121642.ts
+#EXTINF:-1 tvg-id="space.mx" tvg-name="SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Peliculas",SPACE
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121650.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="https://1.bp.blogspot.com/-dIfGuoVc-RM/X_HaqVXEysI/AAAAAAAA7QU/Y8Jx-g6_awgxep9Dl_UelB3pVkYFaSnNwCLcBGAsYHQ/s1080/univr.png" group-title="Peliculas",UNIVERSAL TV
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324321.ts
 
-#EXTINF:-1 tvg-id="National Geographic" group-title="Cable",National Geographic 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://1.bp.blogspot.com/-y9I3MN7FsMw/X-p6iyAhglI/AAAAAAAA688/YZ6n0PgHqsApsMS0oYSsscavtRIIQ2gwwCLcBGAsYHQ/s1080/DTLC.png" group-title="Cable",DISCOVERY TLC
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129169.ts
+#EXTINF:-1 tvg-name="National Geographic" group-title="Cable",National Geographic 
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139410.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166509.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" tvg-id="CNN en Español" group-title="Cable",CNN en Español 
@@ -239,6 +243,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
+#EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35023
 #EXTINF:-1 tvg-id="MTV" group-title="Musica",MTV 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35018
 #EXTINF:-1, tvg-name="MTV 00s Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musica",MTV 00s
