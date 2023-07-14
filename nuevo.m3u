@@ -72,15 +72,13 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35023
 #EXTINF:-1 tvg-id="National Geographic" group-title="Cable",National Geographic 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139144.ts
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Cable",Animal Planet
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166509.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" tvg-id="CNN en Español" group-title="Cable",CNN en Español 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299987.ts
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="DIRECTO : E ENTERTAINMENT TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" tvg-id="E! Entertainment TV" group-title="Cable",E Entertainment 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/50966.ts
 #EXTINF:-1 tvg-id="TBS" group-title="Cable",TBS 
-http://a.alcapone1.com:8080/Tommy/123456/14046
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312799
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Cable",Golden 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302658
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Cable",Golden Plus
@@ -249,7 +247,7 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35035
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35034
 #EXTINF:-1, tvg-name="MTV HD" tvg-id="MTVHD" group-title="Musica",MTV
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
-#EXTINF:-1, tvg-name="MTV Hits" tvg-id="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/240px-MTV_Hits_2017_logo.svg.png" group-title="Musica",MTVHits
+#EXTINF:-1, tvg-name="MTV Hits" tvg-id="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/240px-MTV_Hits_2017_logo.svg.png" group-title="Musica",MTV Hits
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
 #EXTINF:-1, tvg-name="MTV Live" tvg-id="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MTV_Live_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20191212180434" group-title="Musica",MTV Live LatinoAmerica
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
