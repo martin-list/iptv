@@ -74,7 +74,7 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324321.ts
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34991
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Peliculas",Cinemax
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302623
-#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://m1.paperblog.com/i/609/6094012/5-mejores-peliculas-warner-bros-segun-top-pel-L-wEsGJO.png" group-title="Peliculas",Warner Channel
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://p1.hiclipart.com/preview/714/204/980/warner-bros-home-entertainment-logo-png-clipart.jpg" group-title="Peliculas",Warner Channel
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/302746
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://1.bp.blogspot.com/-y9I3MN7FsMw/X-p6iyAhglI/AAAAAAAA688/YZ6n0PgHqsApsMS0oYSsscavtRIIQ2gwwCLcBGAsYHQ/s1080/DTLC.png" group-title="Cable",DISCOVERY TLC
@@ -143,9 +143,6 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34976
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="Film &amp; Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" ,Film & Arts
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/312789
 
-#EXTINF:-1 tvg-name="National Geographic Wild" group-title="Cable",Nat Geo
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
-
 #EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NAT GEO WILD" tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="Cable",NAT GEO WILD
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129773.ts
 #EXTINF:-1 group-title="Cable",TRU TV
@@ -160,94 +157,33 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Radios AM",KZO Entertaiment TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
 
-#EXTINF:-1 tvg-name="América Sports" tvg-logo="http://www.radiosargentina.com.ar/png/VIAMSPOR.png" group-title="Canales TDA",América Sports
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
-#EXTINF:-1 tvg-name="Argentinísima Satelital" tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="Canales TDA",Argentinísima
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
-#EXTINF:-1 tvg-name="Canal de la Ciudad" tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Canales TDA",Canal de la Ciudad
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
-#EXTINF:-1 tvg-name="Canal Rural" tvg-logo="http://www.radiosargentina.com.ar/png/VICRURAL.png" group-title="Canales TDA",Canal Rural
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CGTN.png" group-title="Canales TDA",CGTN Español
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CNN.png" group-title="Canales TDA",CNN International
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" group-title="Canales TDA",DW Español
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0020
 #EXTINF:-1 tvg-name="Garage TV" tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Canales TDA",El Garage TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0021
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="Canales TDA",Fashion TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0022
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="Canales TDA",France24 English 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0023
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="Canales TDA",Galicia TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0024
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIHISPAN.png" group-title="Canales TDA",Hispan TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUSTOP.png" group-title="Canales TDA",Musictop
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0027
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---NHK.png" group-title="Canales TDA",NHK World
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
-#EXTINF:-1 tvg-name="Rai" Italia tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Canales TDA",Rai News24
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",TierraMia TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0031
-#EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",TN Todo Noticias
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
 #EXTINF:-1 tvg-id="Viajar.es" tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Canales TDA",GenTV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
-#EXTINF:-1 tvg-name="Canal Orbe 21" tvg-logo="http://www.radiosargentina.com.ar/png/VILRL456.png" group-title="Canales TDA",LRL456 Orbe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0035
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIENCUEN.png" group-title="Canales TDA",Encuentro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
-#EXTINF:-1 tvg-name="Pakapaka" tvg-logo="http://www.radiosargentina.com.ar/png/VIPAKAPA.png" group-title="Canales TDA",Paka Paka
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0037
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AUNAR.png" group-title="Canales TDA",Aunar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICINEAR.png" group-title="Canales TDA",CINE.AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0039
-#EXTINF:-1 tvg-name="Tec TV" tvg-logo="http://www.radiosargentina.com.ar/png/VI-TECTV.png" group-title="Canales TDA",TECtv
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
-#EXTINF:-1 tvg-name="TV Pública" tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",TV Pública
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---DTV.png" group-title="Canales TDA",DTV Diputados
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Canales TDA",DEPORTV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
-#EXTINF:-1 tvg-name="France 24 Español" tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="Canales TDA",France24 Español
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
-#EXTINF:-1 tvg-name="Crónica TV" tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Canales TDA",Crónica TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
-#EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",IP
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="Canales TDA",C5N
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Canales TDA",LN+
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="Canales TDA",Telesur
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----RT.png" group-title="Canales TDA",RT
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",Canal 26
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLX.png" group-title="Canales TDA",Telemax
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIURTEVE.png" group-title="Canales TDA",Urbana TeVe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA",LS85 El Trece
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
-#EXTINF:-1 tvg-name="Telefe" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43327
+
+#EXTINF:-1 tvg-name="TV Pública" tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",TV Pública
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43308
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",LS83 Canal 9
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
-#EXTINF:-1 tvg-name="América TV" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Canales TDA",LS86 America
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43318
+#EXTINF:-1 tvg-name="Telefe" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA",LS85 El Trece
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+#EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",TN Todo Noticias
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",Canal 26
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43343
+#EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",IP
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Canales TDA",LN+
+
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43322
 
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35023
@@ -263,3 +199,5 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312963
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
 #EXTINF:-1, tvg-name="MTV Live" tvg-id="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MTV_Live_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20191212180434" group-title="Musica",MTV Live LatinoAmerica
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
+
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0022
