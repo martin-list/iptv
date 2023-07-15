@@ -181,7 +181,7 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43343
 #EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",IP
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Canales TDA",LN+
-
+http://ultrontv.xyz:80/PatMyTv2022/wUf5p66VcJwT/151935
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/43322
 
@@ -200,4 +200,3 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35019
 #EXTINF:-1, tvg-name="MTV Live" tvg-id="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MTV_Live_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20191212180434" group-title="Musica",MTV Live LatinoAmerica
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35021
 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0022
