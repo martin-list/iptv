@@ -18,9 +18,9 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34643
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48963.ts
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes",ESPN
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34664
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes",ESPN 2
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34660
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes",ESPN 2
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34664
 #EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes",ESPN 3
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34666
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
