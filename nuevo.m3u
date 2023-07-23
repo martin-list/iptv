@@ -119,19 +119,18 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302674
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302661
 #EXTINF:-1 group-title="Cable",History Channel
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302673
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://1.bp.blogspot.com/-FVE4NZ73dZs/X-p_BfS-f4I/AAAAAAAA6-Q/VWD6dgz480oAP3Wumur_LM-4v-Jp61dEgCLcBGAsYHQ/s1080/h1.png" group-title="Cable",HISTORY
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323870.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="Cable",History 2
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="Cable",History 2
 http://00322.xyz:8000/rances123/9IFBBCRBIX/135792
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX" tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="Cable",FXHD 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302655
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="Film &amp; Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" ,Film & Arts
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35002
-
-#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NAT GEO WILD" tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="Cable",NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="Nat Geo Wild HD" tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="Cable",NAT GEO WILD
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/327753
 #EXTINF:-1 group-title="Cable",TRU TV
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302736
+#EXTINF:-1 tvg-id="" tvg-name="Moonlighting (1985)" tvg-logo="http://mirror.streamhubtv.me:8080/images/-jimtHq13RLWha8r7dypZnm2sNYv859Ev9WeaLoRyMejXcnr09zq2v9kOM-3Th3p1ZZ5v_qzpeiBf_Bzof9yq2-TsipFTT97DRwy_-IpP1E.jpg" group-title="Cable",Moonlighting (1985)
+http://hardcoremedia.xyz:80/Udhn2eH5S/ZMP0LlDu4l/4210
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios AM",LS4  Continental 590 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
@@ -144,7 +143,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
 
 #EXTINF:-1 tvg-name="Garage TV" tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Canales TDA",El Garage TV
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43357
-#EXTINF:-1 tvg-id="Viajar.es" tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
+#EXTINF:-1 tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43327
@@ -166,7 +165,7 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/333108
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43323
 #EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",IP
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="Musica",HTV 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35025
