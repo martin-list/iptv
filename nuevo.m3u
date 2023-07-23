@@ -8,7 +8,7 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34612
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/123871
 
 #EXTINF:-1 tvg-name="Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34618
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302690
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="Deportes",Fox Sports
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34640
@@ -22,7 +22,7 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34660
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes",ESPN 2
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34663
 #EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes",ESPN 3
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34666
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34665
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="Deportes",ESPN Extra
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/312844
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
@@ -36,8 +36,13 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34686
 #EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34688
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Canales TDA",DEPORTV
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34740
+#EXTINF:-1,b31N LA Liga (ES)
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34703
+#EXTINF:-1 tvg-name="beIN Sports En Español",LA Liga FHD (ES)
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34703
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes",DEPORTV
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/123873
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://1.bp.blogspot.com/-Gfd3q_dcGlM/X_Gzh26Bm4I/AAAAAAAA7NI/WtmUCPd2s9wYn3I7SMxTTrzlZOV-1PqqQCLcBGAsYHQ/s1080/HBOSSS.png" group-title="Peliculas",HBO
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302664
@@ -67,7 +72,7 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302743
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Peliculas",Paramount Network 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34923
-#EXTINF:-1 tvg-id="space.mx" tvg-name="SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Peliculas",SPACE
+#EXTINF:-1 tvg-id="space.mx" tvg-name="SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Peliculas",Space
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302719
 #EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Peliculas",Cinecanal
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302689
@@ -76,16 +81,14 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302623
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://p1.hiclipart.com/preview/714/204/980/warner-bros-home-entertainment-logo-png-clipart.jpg" group-title="Peliculas",Warner Channel
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302746
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://1.bp.blogspot.com/-y9I3MN7FsMw/X-p6iyAhglI/AAAAAAAA688/YZ6n0PgHqsApsMS0oYSsscavtRIIQ2gwwCLcBGAsYHQ/s1080/DTLC.png" group-title="Cable",DISCOVERY TLC
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129169.ts
 #EXTINF:-1 tvg-name="National Geographic" group-title="Cable",National Geographic 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139410.ts
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302706
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302606
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" tvg-id="CNN en Español" group-title="Cable",CNN en Español 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299987.ts
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/312871
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment ARG/CHI/COL/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" tvg-id="E! Entertainment TV" group-title="Cable",E Entertainment 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/50966.ts
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302636
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Cable",Golden 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302658
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Cable",Golden Plus
@@ -94,8 +97,6 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302659
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302660
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35044
-#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable",Volver 
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49329
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-small.png" group-title="Cable",HGTV
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302672
 #EXTINF:-1 group-title="Cable",A&E
@@ -147,7 +148,8 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43357
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43327
-
+#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable",Volver 
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49329
 #EXTINF:-1 tvg-name="TV Pública" tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",TV Pública
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43308
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",LS83 Canal 9
