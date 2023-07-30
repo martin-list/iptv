@@ -129,10 +129,8 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302655
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35002
 #EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="Nat Geo Wild HD" tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="Cable",NAT GEO WILD
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/327753
-#EXTINF:-1 group-title="Cable",TRU TV
+#EXTINF:-1 tvg-name="TRUTVLA" tvg-logo="https://e1.pngegg.com/pngimages/859/359/png-clipart-tv-channel-icons-entertainment-trutv-thumbnail.png" group-title="Cable",TRU TV
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302736
-#EXTINF:-1 tvg-id="" tvg-name="Moonlighting (1985)" tvg-logo="http://mirror.streamhubtv.me:8080/images/-jimtHq13RLWha8r7dypZnm2sNYv859Ev9WeaLoRyMejXcnr09zq2v9kOM-3Th3p1ZZ5v_qzpeiBf_Bzof9yq2-TsipFTT97DRwy_-IpP1E.jpg" group-title="Cable",Moonlighting (1985)
-http://hardcoremedia.xyz:80/Udhn2eH5S/ZMP0LlDu4l/4210
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios AM",LS4  Continental 590 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
