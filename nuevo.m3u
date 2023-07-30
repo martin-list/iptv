@@ -38,7 +38,7 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34688
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/926/67/png-clipart-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet.png" tvg-name="beIN Sports En Español" group-title="Deportes",LA Liga (ES)
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34703
-#EXTINF:-1,Movistar Deportes FHD (ES)
+#EXTINF:-1 tvg-name="Movistar Deportes" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="Deportes",Movistar Deportes (ES)
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34704
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes",DEPORTV
