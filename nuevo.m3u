@@ -38,21 +38,23 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34688
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/926/67/png-clipart-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet.png" tvg-name="beIN Sports En Español" group-title="Deportes",LA Liga (ES)
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34703
+#EXTINF:-1,Movistar Deportes FHD (ES)
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34704
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes",DEPORTV
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/123873
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://1.bp.blogspot.com/-Gfd3q_dcGlM/X_Gzh26Bm4I/AAAAAAAA7NI/WtmUCPd2s9wYn3I7SMxTTrzlZOV-1PqqQCLcBGAsYHQ/s1080/HBOSSS.png" group-title="Peliculas",HBO
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302664
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="Peliculas",HBO 2
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="https://i.iinfo.cz/images/155/hbo-2-3d-transparent-logo-1.png" group-title="Peliculas",HBO 2
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302665
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas",HBO PLUS
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302668
-#EXTINF:-1 tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="Peliculas",HBO POP
+#EXTINF:-1 tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/f/ff/HBOPopLA2020.png" group-title="Peliculas",HBO POP
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302669
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.picasion.com/pic92/3fd122f5d2424806272898ee155f05a0.gif" group-title="Peliculas",HBO FAMILY
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302667
-#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg" group-title="Peliculas",HBO MUNDI
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/f/f4/HBOMundiLA2020.png" group-title="Peliculas",HBO MUNDI
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302663
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="Peliculas",HBO SIGNATURE
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302670
@@ -78,6 +80,12 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302689
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302623
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://p1.hiclipart.com/preview/714/204/980/warner-bros-home-entertainment-logo-png-clipart.jpg" group-title="Peliculas",Warner Channel
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302746
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Peliculas",Golden 
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302658
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Peliculas",Golden Plus
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302659
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Peliculas",Golden Premier
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302660
 
 #EXTINF:-1 tvg-name="National Geographic" group-title="Cable",National Geographic 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302706
@@ -87,12 +95,7 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302606
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/312871
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment ARG/CHI/COL/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" tvg-id="E! Entertainment TV" group-title="Cable",E Entertainment 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302636
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Cable",Golden 
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302658
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Cable",Golden Plus
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302659
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Cable",Golden Premier
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302660
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/35044
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-small.png" group-title="Cable",HGTV
