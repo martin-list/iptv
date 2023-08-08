@@ -70,6 +70,9 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302742
 #EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VLgnjpaQ-My_RZypNJ-pAqT-C92oIGRO7fie8ylU_UhlDJwQQufrTzWRR2gxCoiMi9Q&usqp=CAU" tvg-chno="49" channel-id="49" group-title="Peliculas",Universal Reality
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302743
 
+#EXTINF:-1 tvg-name="Teatrix" tvg-logo="https://i2.paste.pics/704a8832ee0cecaadc927139a8a43db8.png" group-title="Teatro", Teatrix
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Peliculas",Paramount Network 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34923
 #EXTINF:-1 tvg-id="space.mx" tvg-name="SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Peliculas",Space
@@ -112,7 +115,7 @@ http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302692
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302672
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302606
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable",DISCOVERY H&H
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable",DISCOVERY h&h
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2809
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="Cable",Discovery Theater HD 
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302626
@@ -133,6 +136,14 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/135792
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302655
 #EXTINF:-1 tvg-name="TRUTVLA" tvg-logo="https://e1.pngegg.com/pngimages/859/359/png-clipart-tv-channel-icons-entertainment-trutv-thumbnail.png" group-title="Cable",TRU TV
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302736
+#EXTINF:-1 tvg-name="Garage TV" tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Canales TDA",El Garage TV
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43357
+#EXTINF:-1 tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43327
+#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable",Volver 
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49329
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios AM",LS4  Continental 590 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
@@ -143,14 +154,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Radios AM",KZO Entertaiment TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
 
-#EXTINF:-1 tvg-name="Garage TV" tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Canales TDA",El Garage TV
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43357
-#EXTINF:-1 tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43327
-#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable",Volver 
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49329
 #EXTINF:-1 tvg-name="TV Pública" tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",TV Pública
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43308
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",LS83 Canal 9
