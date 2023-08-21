@@ -139,11 +139,11 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302736
 #EXTINF:-1 tvg-name="Garage TV" tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Canales TDA",El Garage TV
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43357
 #EXTINF:-1 tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",Viajar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43327
 #EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable",Volver 
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49329
+tp://mymoontools.xyz:8080/b4ck9CABEfMc5JA/pxanQtVZRV/1321873
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios AM",LS4  Continental 590 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
@@ -159,11 +159,11 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43308
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",LS83 Canal 9
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43317
 #EXTINF:-1 tvg-name="Telefe" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43312
+http://mymoontools.xyz:8080/b4ck9CABEfMc5JA/pxanQtVZRV/1322260
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA",LS85 El Trece
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43314
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",TN Todo Noticias
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43345
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",Canal 26
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43343
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Canales TDA",LN+
@@ -171,20 +171,20 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/333108
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43323
 #EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",IP
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="Musica",HTV 
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35025
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35023
+http://mymoontools.xyz:8080/b4ck9CABEfMc5JA/pxanQtVZRV/19391
 #EXTINF:-1 tvg-id="MTV" group-title="Musica",MTV 
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35018
 #EXTINF:-1, tvg-name="MTV 00s Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musica",MTV 00s
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35035
 #EXTINF:-1, tvg-name="MTV 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/640px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="Musica",MTV 80's
 http://dnsplay.xyz:80/iulbtxvx/X44n6dH0cz/35034
-#EXTINF:-1, tvg-name="MTV HD" tvg-id="MTVHD" group-title="Musica",MTV
-http://dnsplay.xyz:80/iulbtxvx/X44n6dH0cz/312963
+#EXTINF:-1, tvg-name="MTV HD" tvg-id="MTVHD" group-title="Musica",MTV HD
+http://mymoontools.xyz:8080/b4ck9CABEfMc5JA/pxanQtVZRV/1322233
 #EXTINF:-1, tvg-name="MTV Hits" tvg-id="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/240px-MTV_Hits_2017_logo.svg.png" group-title="Musica",MTV Hits
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35019
 #EXTINF:-1, tvg-name="MTV Live" tvg-id="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MTV_Live_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20191212180434" group-title="Musica",MTV Live LatinoAmerica
