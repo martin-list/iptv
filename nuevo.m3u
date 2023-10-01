@@ -101,22 +101,22 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312871
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302636
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35044
+http://179.51.161.3:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Cable",A&E
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302612
+http://179.51.161.3:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Cable",AMC
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302605
+http://179.51.161.3:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="axncentral.pa" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="Cable",AXN
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302611
+http://179.51.161.3:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Cable",Comedy Central
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302692
+http://179.51.161.3:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-small.png" group-title="Cable",HGTV
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302672
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302606
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable",> DISCOVERY h&h
-http://00322.xyz:8000/rances123/9IFBBCRBIX/2809
+http://179.51.161.3:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable",> Discovery h&h
+http://179.51.161.3:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="Cable",Discovery Theater HD 
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302626
 #EXTINF:-1 group-title="Cable",> Discovery World
