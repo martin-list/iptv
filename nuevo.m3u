@@ -8,10 +8,10 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/2123474
 http://sdmx.vip:8080/Joseluis/Joseluis123/203186
 
 #EXTINF:-1 tvg-name="Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302690
+http://sdmx.vip:8080/u8334525209/65213/10924
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="Deportes",Fox Sports
-http://sdmx.vip:8080/Joseluis/Joseluis123/2090080
+http://sdmx.vip:8080/u8334525209/65213/2092587
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="Deportes"",Fox Sports 2
 http://sdmx.vip:8080/Joseluis/Joseluis123/10957
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 MX
@@ -29,17 +29,12 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/181378
 http://sdmx.vip:8080/Joseluis/Joseluis123/2121662
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="Deportes",TNT SPORTS
-http://tvpanel.one:80/live/eegs@hotmail.com/RCPeDrA4cU/126069.ts
+http://sdmx.vip:8080/u8334525209/65213/155247
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes",TyC Sports
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/199511
 #EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155679
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/926/67/png-clipart-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet.png" tvg-name="beIN Sports En Español" group-title="Deportes",LA Liga (ES)
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34703
-#EXTINF:-1 tvg-name="Movistar Deportes" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="Deportes",Movistar Deportes (ES)
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34704
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes",> DEPORTV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
