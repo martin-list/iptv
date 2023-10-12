@@ -8,36 +8,38 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/2123474
 http://sdmx.vip:8080/Joseluis/Joseluis123/203186
 
 #EXTINF:-1 tvg-name="Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
-http://sdmx.vip:8080/u8334525209/65213/10924
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10924
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="Deportes",Fox Sports
 http://sdmx.vip:8080/u8334525209/65213/2092587
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="Deportes"",Fox Sports 2
 http://sdmx.vip:8080/Joseluis/Joseluis123/10957
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 MX
-http://sdmx.vip:8080/Joseluis/Joseluis123/10951
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10958
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox Sports Premium HD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",Fox Sports Premium HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10915
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes",ESPN
 http://sdmx.vip:8080/Joseluis/Joseluis123/202064
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes",ESPN 2
 http://sdmx.vip:8080/Joseluis/Joseluis123/181332
 #EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes",ESPN 3
-http://sdmx.vip:8080/Joseluis/Joseluis123/181349
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181348
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="Deportes",ESPN Extra
 http://sdmx.vip:8080/Joseluis/Joseluis123/181378
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
 http://sdmx.vip:8080/Joseluis/Joseluis123/2121662
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="Deportes",TNT SPORTS
-http://sdmx.vip:8080/u8334525209/65213/155247
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2140800
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes",TyC Sports
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/199511
 #EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155679
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes",> DEPORTV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://1.bp.blogspot.com/-Gfd3q_dcGlM/X_Gzh26Bm4I/AAAAAAAA7NI/WtmUCPd2s9wYn3I7SMxTTrzlZOV-1PqqQCLcBGAsYHQ/s1080/HBOSSS.png" group-title="Peliculas" audio-track="spa",HBO
 http://sdmx.vip:8080/Joseluis/Joseluis123/2092584
@@ -48,7 +50,7 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/2092585
 #EXTINF:-1 tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="Peliculas" audio-track="spa",HBO POP
 http://sdmx.vip:8080/Joseluis/Joseluis123/41420
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.picasion.com/pic92/3fd122f5d2424806272898ee155f05a0.gif" group-title="Peliculas" audio-track="spa",HBO FAMILY
-http://sdmx.vip:8080/u8334525209/65213/10878
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10878
 #EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/f/f4/HBOMundiLA2020.png" group-title="Peliculas" audio-track="spa",HBO MUNDI
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10863
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="Peliculas" audio-track="spa",HBO SIGNATURE
@@ -56,16 +58,16 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/10882
 #EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="Peliculas" audio-track="spa",HBO XTREME
 http://sdmx.vip:8080/Joseluis/Joseluis123/157156
 
-#EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" tvg-chno="40" channel-id="40" group-title="Peliculas",Universal Cinema
+#EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="Peliculas",Universal Cinema
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081448
-#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" tvg-chno="42" channel-id="42" group-title="Peliculas",Universal Comedy
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="Peliculas",Universal Comedy
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304508
-#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" tvg-chno="45" channel-id="45" group-title="Peliculas",Universal Premiere
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" group-title="Peliculas",Universal Premiere
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081450
-#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VLgnjpaQ-My_RZypNJ-pAqT-C92oIGRO7fie8ylU_UhlDJwQQufrTzWRR2gxCoiMi9Q&usqp=CAU" tvg-chno="49" channel-id="49" group-title="Peliculas",Universal Reality
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VLgnjpaQ-My_RZypNJ-pAqT-C92oIGRO7fie8ylU_UhlDJwQQufrTzWRR2gxCoiMi9Q&usqp=CAU" group-title="Peliculas",Universal Reality
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081447
 
-#EXTINF:-1 tvg-name="Teatrix" tvg-logo="https://i2.paste.pics/704a8832ee0cecaadc927139a8a43db8.png" group-title="Teatro",> Teatrix
+#EXTINF:-1 tvg-name="Teatrix" tvg-logo="https://i2.paste.pics/704a8832ee0cecaadc927139a8a43db8.png" group-title="Teatro", Teatrix
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Peliculas",Paramount Network 
@@ -77,7 +79,7 @@ http://sdmx.vip:8080/moreno100/123456/10845
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Peliculas",Cinemax
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10847
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://p1.hiclipart.com/preview/714/204/980/warner-bros-home-entertainment-logo-png-clipart.jpg" group-title="Peliculas",Warner Channel
-http://sdmx.vip:8080/UzielLCH/UzielLCH/148810
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/148810
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Peliculas",Golden 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/154110
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Peliculas",Golden Plus
@@ -109,11 +111,11 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2100589
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/182836
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10407
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable",> Discovery h&h
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable", Discovery h&h
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10420
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="Cable",Discovery Theater HD 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10425
-#EXTINF:-1 group-title="Cable",> Discovery World
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg",group-title="Cable",> Discovery World
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10415
 #EXTINF:-1 tvg-id="ID" tvg-name="Investigation Discovery" group-title="Cable",Discovery ID
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10428
@@ -130,39 +132,39 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2160490
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10561
 #EXTINF:-1 tvg-name="TRUTVLA" tvg-logo="https://e1.pngegg.com/pngimages/859/359/png-clipart-tv-channel-icons-entertainment-trutv-thumbnail.png" group-title="Cable",TRU TV
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10580
-#EXTINF:-1 tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA",> Viajar
+#EXTINF:-1 tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA", Viajar
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2170061
-#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable",> Volver 
+#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="Cable", Volver 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210868
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios AM",> Continental 590 TV
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios AM", Continental 590 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="Radios AM",> Rivadavia 630 TV
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="Radios AM", Rivadavia 630 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0002
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios AM",> Mitre 790 TV
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios AM", Mitre 790 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Radios AM",> Urbana Play 104.3 TV
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Radios AM", Urbana Play 104.3 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
 
 #EXTINF:-1 tvg-name="TV Pública" tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",TV Pública
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43308
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",LS83 Canal 9
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43317
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210851
 #EXTINF:-1 tvg-name="Telefe" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
-http://mymoontools.xyz:8080/b4ck9CABEfMc5JA/pxanQtVZRV/1322260
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA",> LS85 El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA",> TN Todo Noticias
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210861
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA", LS85 El Trece
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210852
+#EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA", TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA",> Canal 26
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA", Canal 26
 https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Canales TDA",> LN+
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Canales TDA", LN+
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210856
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/43323
-#EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA",> IP
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="Musica",HTV 
@@ -181,5 +183,3 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2098823
 #EXTINF:-1, tvg-name="MTV Live" tvg-id="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MTV_Live_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20191212180434" group-title="Musica",MTV Live LatinoAmerica
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2098822
 
-#EXTINF:-1 tvg-id="" tvg-name="Gigantes de Acero (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg" group-title="VOD | Sagas",Gigantes de Acero (2011)
-http://sdmx.vip:8080/movie/Jud139/1039/2149771.mkv
