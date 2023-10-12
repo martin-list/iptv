@@ -111,11 +111,11 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2100589
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/182836
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10407
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable", Discovery h&h
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health LatinoAmerica HD" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable", Discovery h&h
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10420
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="Cable",Discovery Theater HD 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10425
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg",group-title="Cable",> Discovery World
+#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg",group-title="Cable", Discovery World
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10415
 #EXTINF:-1 tvg-id="ID" tvg-name="Investigation Discovery" group-title="Cable",Discovery ID
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10428
@@ -126,7 +126,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2145709
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/12256
 #EXTINF:-1 group-title="Cable",History Channel
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10424
-#EXTINF:-1 tvg-name="History 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="Cable",> History 2
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="Cable", History 2
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2160490
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX" tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="Cable",FXHD 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10561
@@ -167,8 +167,6 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="Musica",HTV 
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35025
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2169974
 
