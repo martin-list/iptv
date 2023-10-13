@@ -35,7 +35,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2140800
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes",TyC Sports
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/199511
-#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
+#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC Sports Int" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155679
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DEPORTV
@@ -58,9 +58,9 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/10882
 #EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="Peliculas" audio-track="spa",HBO XTREME
 http://sdmx.vip:8080/Joseluis/Joseluis123/157156
 
-#EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="Peliculas",Universal Cinema
+#EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://www.ncoop.com.ar/wp-content/grand-media/image/Universal_Cinema.png" group-title="Peliculas",Universal Cinema
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081448
-#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="Peliculas",Universal Comedy
+*#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="Peliculas",Universal Comedy
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304508
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" group-title="Peliculas",Universal Premiere
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081450
@@ -70,7 +70,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081447
 #EXTINF:-1 tvg-name="Teatrix" tvg-logo="https://i2.paste.pics/704a8832ee0cecaadc927139a8a43db8.png" group-title="Teatro", Teatrix
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Peliculas",Paramount Network 
+#EXTINF:-1 tvg-name="Paramount Network Latinoamerica" tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Peliculas",Paramount Network 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10867
 #EXTINF:-1 tvg-id="space.mx" tvg-name="SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Peliculas",Space
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10871
@@ -89,7 +89,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/200947
 
 #EXTINF:-1 tvg-name="National Geographic" group-title="Cable",National Geographic 
 http://sdmx.vip:8080/UzielLCH/UzielLCH/10414
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="Cable",Nat Geo Wild
+#EXTINF:-1 tvg-id="I435.72449.zap2it.com" tvg-name="Nat Geo Wild HD" tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="Cable",Nat Geo Wild
 http://sdmx.vip:8080/UzielLCH/UzielLCH/2100612
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" tvg-id="CNN en Español" group-title="Cable",CNN en Español 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155162
@@ -111,7 +111,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2100589
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/182836
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Cable",Animal Planet 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10407
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery Home &amp; Health LatinoAmerica HD" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable", Discovery h&h
+#EXTINF:-1 tvg-id="I182.97928.schedulesdirect.org" tvg-name="Discovery Home &amp; Health LatinoAmerica HD" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="Cable", Discovery h&h
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10420
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="Cable",Discovery Theater HD 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10425
@@ -164,7 +164,7 @@ https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210856
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA", IP
+*#EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
