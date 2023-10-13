@@ -35,7 +35,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2140800
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes",TyC Sports
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/199511
-#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC Sports Int" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TyC Sports Int" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155679
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DEPORTV
@@ -60,7 +60,7 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/157156
 
 #EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://www.ncoop.com.ar/wp-content/grand-media/image/Universal_Cinema.png" group-title="Peliculas",Universal Cinema
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081448
-#EXTINF1:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="Peliculas",Universal Comedy
+ tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="Peliculas",Universal Comedy
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304508
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" group-title="Peliculas",Universal Premiere
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081450
@@ -164,7 +164,7 @@ https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210856
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-*EXTINF:-1 tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA", IP
+ tvg-name="IP" tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Canales TDA", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
