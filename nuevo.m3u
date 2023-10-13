@@ -60,7 +60,7 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/157156
 
 #EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://www.ncoop.com.ar/wp-content/grand-media/image/Universal_Cinema.png" group-title="Peliculas",Universal Cinema
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081448
-*EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="Peliculas",Universal Comedy
+#EXTINF1:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="Peliculas",Universal Comedy
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304508
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" group-title="Peliculas",Universal Premiere
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081450
