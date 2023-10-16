@@ -78,7 +78,7 @@ http://sdmx.vip:8080/moreno100/123456/10845
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10847
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://p1.hiclipart.com/preview/714/204/980/warner-bros-home-entertainment-logo-png-clipart.jpg" group-title="Peliculas",Warner Channel
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/148810
-#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Peliculas",Star Channel
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="Star Channel" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Peliculas",Star Channel
 http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/140197
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Peliculas",Golden 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/154110
