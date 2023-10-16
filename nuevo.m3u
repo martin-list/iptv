@@ -78,6 +78,8 @@ http://sdmx.vip:8080/moreno100/123456/10845
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10847
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://p1.hiclipart.com/preview/714/204/980/warner-bros-home-entertainment-logo-png-clipart.jpg" group-title="Peliculas",Warner Channel
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/148810
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Peliculas",Star Channel
+http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/140197
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Peliculas",Golden 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/154110
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="Peliculas",Golden Edge
@@ -94,7 +96,7 @@ http://sdmx.vip:8080/UzielLCH/UzielLCH/2100612
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" tvg-id="CNN en Español" group-title="Cable",CNN en Español 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155162
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment ARG/CHI/COL/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" tvg-id="E! Entertainment TV" group-title="Cable",E Entertainment 
-http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10557
+http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/150570
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10575
@@ -130,8 +132,6 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10424
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2160490
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX" tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="Cable",FXHD 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10561
-#EXTINF:-1 tvg-name="TRUTVLA" tvg-logo="https://e1.pngegg.com/pngimages/859/359/png-clipart-tv-channel-icons-entertainment-trutv-thumbnail.png" group-title="Cable",TRU TV
-http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10580
 #EXTINF:-1 tvg-name="Viajar" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Canales TDA", Viajar
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="Canales TDA",NET TV
@@ -157,13 +157,13 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210861
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA", LS85 El Trece
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210852
 #EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Canales TDA", TN Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+http://sdmx.vip:8080/u8334525209/65213/2170060
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA", Canal 26
-https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+http://sdmx.vip:8080/u8334525209/65213/210841
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Canales TDA", LN+
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210856
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+http://sdmx.vip:8080/u8334525209/65213/210833
 
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2169974
