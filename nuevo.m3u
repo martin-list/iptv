@@ -80,6 +80,8 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10847
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/148810
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Peliculas",Golden 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/154110
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="Peliculas",Golden Edge
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10859
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Peliculas",Golden Plus
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10862
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Peliculas",Golden Premier
@@ -162,7 +164,7 @@ https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210856
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2169974
 
