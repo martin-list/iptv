@@ -16,7 +16,7 @@ http://sdmx.vip:8080/u8334525209/65213/2092587
 http://sdmx.vip:8080/Joseluis/Joseluis123/10957
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10958
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox Sports Premium HD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",Fox Sports Premium HD
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox Sports Premium HD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="Deportes",Fox Sports Premium HD
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10915
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes",ESPN
@@ -24,7 +24,7 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/202064
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes",ESPN 2
 http://sdmx.vip:8080/Joseluis/Joseluis123/181332
 #EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes",ESPN 3
-http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181348
+http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/181352
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="Deportes",ESPN Extra
 http://sdmx.vip:8080/Joseluis/Joseluis123/181378
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
@@ -39,7 +39,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/199511
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155679
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DEPORTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/210849
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://1.bp.blogspot.com/-Gfd3q_dcGlM/X_Gzh26Bm4I/AAAAAAAA7NI/WtmUCPd2s9wYn3I7SMxTTrzlZOV-1PqqQCLcBGAsYHQ/s1080/HBOSSS.png" group-title="Peliculas" audio-track="spa",HBO
 http://sdmx.vip:8080/Joseluis/Joseluis123/2092584
@@ -69,7 +69,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2081447
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="Paramount Network Latinoamerica" tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Peliculas",Paramount Network 
-http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10867
+http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/155172
 #EXTINF:-1 tvg-id="space.mx" tvg-name="SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Peliculas",Space
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10871
 #EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Peliculas",Cinecanal
@@ -164,7 +164,7 @@ https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210856
 #EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
- 
+
 #EXTINF:-1 tvg-id="ConcertChannel.ar" tvg-name="Concert Channel" tvg-logo="https://static.epg.best/ar/ConcertChannel.ar.png" tvg-chno="50" channel-id="50" group-title="Musica",Concert Channel
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2169974
 
