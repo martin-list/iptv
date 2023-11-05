@@ -38,6 +38,9 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/199511
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TyC Sports Int" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155679
 
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="Deportes",Tennis Channel
+http://dominoiptv.com:2082/hW0kf53M80Qv5/mih9Wxnk53CndCdj6/28408
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DEPORTV
 http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/210849
 
@@ -85,9 +88,9 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/154110
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="Peliculas",Golden Edge
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10859
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Peliculas",Golden Plus
-http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10862
+http://51.81.244.172:25461/SEANK07J/BZ2DW9/19907
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Peliculas",Golden Premier
-http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/200947
+http://51.81.244.172:25461/SEANK07J/BZ2DW9/19908
 
 #EXTINF:-1 tvg-name="National Geographic" group-title="Cable",National Geographic 
 http://sdmx.vip:8080/UzielLCH/UzielLCH/10414
@@ -146,7 +149,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0002
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios AM", Mitre 790 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Radios AM", Urbana Play 104.3 TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
+https://lc.cx/79Qtef
 
 #EXTINF:-1 tvg-name="TV Pública" tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Canales TDA",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
@@ -171,7 +174,7 @@ http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2169974
 #EXTINF:-1, tvg-name="MTV 00s Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musica",MTV 00s
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/2098821
 #EXTINF:-1, tvg-name="MTV 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/640px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="Musica",MTV 80's
-http://sdmx.vip:8080/u8334525209/65213/2145661
+http://dominoiptv.com:2082/hW0kf53M80Qv5/mih9Wxnk53CndCdj6/228540
 #EXTINF:-1, tvg-name="MTV HD" tvg-id="MTVHD" group-title="Musica",MTV HD
 http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10567
 #EXTINF:-1, tvg-name="MTV Hits" tvg-id="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/240px-MTV_Hits_2017_logo.svg.png" group-title="Musica",MTV Hits
