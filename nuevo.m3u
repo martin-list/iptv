@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="610dtv.ar" tvg-name="ARG | DIRECTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes"",Directv Sports
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-name="DIRECTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes"",Directv Sports
 http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181836
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Directv Sports 2
 http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181837
