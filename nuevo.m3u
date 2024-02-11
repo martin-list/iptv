@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-name="DIRECTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes"",Directv Sports
 http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181836
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Directv Sports 2
@@ -8,27 +7,27 @@ http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181837
 http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181834
 
 #EXTINF:-1 tvg-name="Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181828
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/68639
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="Deportes",Fox Sports
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181859
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/76
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="Deportes"",Fox Sports 2
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/79289
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/144623
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181867
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/50508
 #EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox Sports Premium HD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="Deportes",Fox Sports Premium HD
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181871
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/11570
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes",ESPN
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181839
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/74
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes",ESPN 2
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181843
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/71
 #EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes",ESPN 3
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/181352
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/69
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="Deportes",ESPN Extra
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181850
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/144044
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/181854
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/81254
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="Deportes",TNT SPORTS
 http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926449
@@ -42,70 +41,74 @@ http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/79284
 http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/210849
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://1.bp.blogspot.com/-Gfd3q_dcGlM/X_Gzh26Bm4I/AAAAAAAA7NI/WtmUCPd2s9wYn3I7SMxTTrzlZOV-1PqqQCLcBGAsYHQ/s1080/HBOSSS.png" group-title="Peliculas" audio-track="spa",HBO
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182113
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/55
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Peliculas" audio-track="spa",HBO 2
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182066
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/43
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas" audio-track="spa",HBO PLUS
-http://sdmx.vip:8080/Joseluis/Joseluis123/2092585
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/49
 #EXTINF:-1 tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="Peliculas" audio-track="spa",HBO POP
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182070
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1243
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.picasion.com/pic92/3fd122f5d2424806272898ee155f05a0.gif" group-title="Peliculas" audio-track="spa",HBO FAMILY
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182068
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/52
 #EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/f/f4/HBOMundiLA2020.png" group-title="Peliculas" audio-track="spa",HBO MUNDI
 http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182069
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="Peliculas" audio-track="spa",HBO SIGNATURE
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182071
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/46
 #EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="Peliculas" audio-track="spa",HBO XTREME
 http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182073
 
 #EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="Universal Cinema" tvg-logo="https://www.ncoop.com.ar/wp-content/grand-media/image/Universal_Cinema.png" group-title="Peliculas",Universal Cinema
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182046
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/111421
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" group-title="Peliculas",Universal Premiere
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182049
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/111419
+#EXTINF:-1 tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Peliculas",Universal TV
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1268
 
 #EXTINF:-1 tvg-name="Teatrix" tvg-logo="https://i2.paste.pics/704a8832ee0cecaadc927139a8a43db8.png" group-title="Teatro", Teatrix
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="Paramount Network Latinoamerica" tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Peliculas",Paramount Network 
 http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926494
+#EXTINF:-1 tvg-name="Fox HD" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9b/FOXPremium2018.png/revision/latest?cb=20181109215443&path-prefix=es" group-title="Peliculas",Fox peliculas 
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/110156
 #EXTINF:-1 tvg-id="space.mx" tvg-name="SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Peliculas",Space
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182078
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/156180
 #EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Peliculas",Cinecanal
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182054
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1251
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Peliculas",Cinemax
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182055
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/7
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://p1.hiclipart.com/preview/714/204/980/warner-bros-home-entertainment-logo-png-clipart.jpg" group-title="Peliculas",Warner Channel
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926453
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1259
 #EXTINF:-1 tvg-id="fox.mx" tvg-name="Star Channel" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Peliculas",Star Channel
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926473
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/30
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="Peliculas",Golden 
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/25538
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1286
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="Peliculas",Golden Edge
-http://pro.boxdigital.org:8080/rafaelrojas/33sBNtb2U2/182060
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1290
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBwCaJYf4NxfnrYr7ZdwdPSCTXqROGDp1eTd5f0rwC0Mhk2DUHTJrkeby3iOtwaiuXA&usqp=CAU" group-title="Peliculas",Golden Plus
-http://thevdm.xyz:25461/Emma10380/8881/19907
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1287
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Peliculas",Golden Premier
-http://thevdm.xyz:25461/Emma10380/8881/19908
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1293
 
 #EXTINF:-1 tvg-name="National Geographic" group-title="Cable",National Geographic 
-http://flashprinttv.com:2086/wNLx7QKRCJSf/cvnWaysQAdzF/336480
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/110252
 #EXTINF:-1 tvg-id="I435.72449.zap2it.com" tvg-name="Nat Geo Wild HD" tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="Cable",Nat Geo Wild
-http://myteve.online:8080/30fe809e/ec00cbf3/38698
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/53491
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" tvg-id="CNN en Español" group-title="Cable",CNN en Español 
-http://thevdm.xyz:25461/Emma10380/8881/19860
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/63073
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment ARG/CHI/COL/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" tvg-id="E! Entertainment TV" group-title="Cable",E Entertainment 
-http://thevdm.xyz:25461/Emma10380/8881/19881
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/126151
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="Cable",HOLA TV 
-http://thevdm.xyz:25461/Emma10380/8881/19915
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/126560
 #EXTINF:-1 group-title="Cable",A&E
-http://thevdm.xyz:25461/Emma10380/8881/19830
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/5
 #EXTINF:-1 group-title="Cable",AMC
-http://thevdm.xyz:25461/Emma10380/8881/19832
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1284
 #EXTINF:-1 tvg-id="axncentral.pa" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="Cable",AXN
-http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/104
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/1255
 #EXTINF:-1 group-title="Cable",Comedy Central
-http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/10
+http://latinoamericatv.vip:8080/SandraTv/1di38Ue0vt/110116
 
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-small.png" group-title="Cable",HGTV
 http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/410
